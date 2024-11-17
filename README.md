@@ -14,7 +14,7 @@ This project leverages Spotify's API to extract detailed audio features for a gi
 ## File Overview
 
 1. **gnod_final.ipynb**  
-   A Jupyter notebook that demonstrates the project pipeline, including data analysis, visualization, and playlist generation.
+   A Jupyter notebook that demonstrates the project pipeline, including data analysis, visualization, and song clustering.
 
 2. **gnod_functions.py**  
    Contains core Python functions, including:  
@@ -23,7 +23,7 @@ This project leverages Spotify's API to extract detailed audio features for a gi
    - Data Formatting: Outputs structured data for use in machine learning models or playlist generation.
 
 3. **streamlit_metal.py**  
-   A Streamlit app for generating playlists based on extracted audio features. Allows users to interactively explore and filter tracks by their characteristics.
+   A Streamlit app for generating playlists of any desired length based on a given song by it's extracted audio features. Allows users to interactively filter tracks by popularity
 
 ## Setup and Installation
 
@@ -34,7 +34,14 @@ This project leverages Spotify's API to extract detailed audio features for a gi
    cd YourRepo
 
 3. Install dependencies:  
-   pip install -r requirements.txt
+   - numpy
+   - pandas
+   - spotipy
+   - yellowbrick
+   - seaborn
+   - matplotlib
+   - plotly
+   - scikit-learn
 
 4. Set up Spotify API credentials:  
    - Sign up for a Spotify Developer account and create an app.  
@@ -49,7 +56,7 @@ This project leverages Spotify's API to extract detailed audio features for a gi
    jupyter notebook gnod_final.ipynb
 
 2. Follow the steps in the notebook to:  
-   - Process a dataset of track IDs.  
+   - Process a dataset of track Spotify tracks.  
    - Analyze audio features.  
    - Generate playlists.
 
@@ -62,11 +69,6 @@ This project leverages Spotify's API to extract detailed audio features for a gi
 ## Future Enhancements
 
 - Integration of advanced clustering algorithms for playlist personalization.
-- Addition of user login for saving and retrieving playlists.
+- Expanding the dataset for enhanced separation and granularity, include all genres.
 - Support for genre-based recommendations.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgmen
