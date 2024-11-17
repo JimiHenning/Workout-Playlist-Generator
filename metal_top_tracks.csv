@@ -1,0 +1,971 @@
+,artist_id,artist_name,track_name,track_popularity,track_uri,track_number
+0,28hJdGN1Awf7u3ifk2lVkg,Testament,For the Glory of...,68,spotify:track:6J4VOoKhRZFNeWkVH0WTzH,1
+1,28hJdGN1Awf7u3ifk2lVkg,Testament,Down for Life,58,spotify:track:3pKsUMqpVr4ZJ13Mm91Xig,2
+2,28hJdGN1Awf7u3ifk2lVkg,Testament,Brotherhood of the Snake,53,spotify:track:4VcN84ZdC7doe4yoIarJUA,3
+3,28hJdGN1Awf7u3ifk2lVkg,Testament,More Than Meets the Eye,51,spotify:track:4pwKVmEsLZAIFW05f88ZT4,4
+4,28hJdGN1Awf7u3ifk2lVkg,Testament,Return to Serenity,50,spotify:track:5awljpWNO5TpXCyjpvCBbs,5
+5,14pVkFUHDL207LzLHtSA18,Pantera,Walk,73,spotify:track:7fcfNW0XxTWlwVlftzfDOR,1
+6,14pVkFUHDL207LzLHtSA18,Pantera,Cowboys from Hell,71,spotify:track:2SgbR6ttzoNlCRGQOKjrop,2
+7,14pVkFUHDL207LzLHtSA18,Pantera,Cemetery Gates,65,spotify:track:4vJr55lngvhSM8WIh9CjQc,3
+8,14pVkFUHDL207LzLHtSA18,Pantera,I'm Broken,64,spotify:track:2M5WTwqnkyz7bW6P1CiD6q,4
+9,14pVkFUHDL207LzLHtSA18,Pantera,This Love,64,spotify:track:0Yfpc5zHc9pElVCQ1bPlF4,5
+10,1Yox196W7bzVNZI7RBaPnf,Megadeth,Symphony Of Destruction - Remastered 2012,67,spotify:track:5mR858YsHYG761aUqZoGkD,1
+11,1Yox196W7bzVNZI7RBaPnf,Megadeth,Holy Wars...The Punishment Due - 2004 Remix,65,spotify:track:5LyRtsQLhcXmy50VXhQXXS,2
+12,1Yox196W7bzVNZI7RBaPnf,Megadeth,A Tout Le Monde - Remastered 2004,63,spotify:track:6olS0TmHmsGr0hXtcBsiVM,3
+13,1Yox196W7bzVNZI7RBaPnf,Megadeth,Tornado Of Souls - 2004 Remix,62,spotify:track:4E5xVW505akJX0wcKj8Mpd,4
+14,1Yox196W7bzVNZI7RBaPnf,Megadeth,Angry Again,60,spotify:track:3CI1JP2ooMBSFjIy1u6Yrc,5
+15,6JW8wliOEwaDZ231ZY7cf4,Sepultura,Roots Bloody Roots,63,spotify:track:6ursmCnbc9oDRGa2yHKkoZ,1
+16,6JW8wliOEwaDZ231ZY7cf4,Sepultura,Refuse / Resist,58,spotify:track:2OoS1aZFAFscH1cUiKlazH,2
+17,6JW8wliOEwaDZ231ZY7cf4,Sepultura,Territory,56,spotify:track:0QRxtcxL31dRAeiUUuENPu,3
+18,6JW8wliOEwaDZ231ZY7cf4,Sepultura,Ratamahatta,56,spotify:track:3Tg8JctqoeIwZ3Rue8BjaI,4
+19,6JW8wliOEwaDZ231ZY7cf4,Sepultura,Arise,53,spotify:track:1erRDf98WX0VllciGPYO1H,5
+20,3JysSUOyfVs1UQ0UaESheP,Anthrax,Got The Time,57,spotify:track:3cFnb3Rg9a7Gzqxc5QQ9YZ,1
+21,3JysSUOyfVs1UQ0UaESheP,Anthrax,Madhouse,55,spotify:track:76BYv24CcZt2u94JRjmATX,2
+22,3JysSUOyfVs1UQ0UaESheP,Anthrax,Bring The Noise,52,spotify:track:1p50Ir1Hm6Sa1urjaLGi7L,3
+23,3JysSUOyfVs1UQ0UaESheP,Anthrax,Indians,49,spotify:track:1fcyfC1KLSWVCIvALR5AxS,4
+24,3JysSUOyfVs1UQ0UaESheP,Anthrax,Caught In A Mosh,48,spotify:track:0c6p9QomOhNU9uzujLjtsD,5
+25,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,Crazy Train,75,spotify:track:7ACxUo21jtTHzy7ZEV56vU,1
+26,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,No More Tears,70,spotify:track:7w6PJe5KBPyvuRYxFkPssC,2
+27,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,"Mama, I'm Coming Home",64,spotify:track:0S3gpZzlT9Hb7CCSV2owX7,3
+28,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,I Don't Wanna Stop,64,spotify:track:5axOkQnmQmwtjr4bv1Xt7i,4
+29,6ZLTlhejhndI4Rh53vYhrY,Ozzy Osbourne,Bark at the Moon,62,spotify:track:2E7W1X4maFFcjHrVrFA7Vs,5
+30,2ye2Wgw4gimLv2eAKyk1NB,Metallica,Enter Sandman,79,spotify:track:5sICkBXVmaCQk5aISGR3x1,1
+31,2ye2Wgw4gimLv2eAKyk1NB,Metallica,Nothing Else Matters,78,spotify:track:0nLiqZ6A27jJri2VCalIUs,2
+32,2ye2Wgw4gimLv2eAKyk1NB,Metallica,Master Of Puppets,75,spotify:track:2MuWTIM3b0YEAskbeeFE1i,3
+33,2ye2Wgw4gimLv2eAKyk1NB,Metallica,For Whom The Bell Tolls - Remastered,69,spotify:track:3LpHzQU2CZzZJGdUWV79SI,4
+34,2ye2Wgw4gimLv2eAKyk1NB,Metallica,One,72,spotify:track:5IX4TbIR5mMHGE4wiWwKW0,5
+35,6mdiAmATAx73kdxrNrnlao,Iron Maiden,The Trooper - 2015 Remaster,71,spotify:track:4OROzZUy6gOWN4UGQVaZMF,1
+36,6mdiAmATAx73kdxrNrnlao,Iron Maiden,Run to the Hills - 2015 Remaster,69,spotify:track:4Zc7TCHzuNwL0AFBlyLdyr,2
+37,6mdiAmATAx73kdxrNrnlao,Iron Maiden,Fear of the Dark - 2015 Remaster,69,spotify:track:6p8eFfPw3nQkf37aT3AkmK,3
+38,6mdiAmATAx73kdxrNrnlao,Iron Maiden,The Number of the Beast - 2015 Remaster,66,spotify:track:3nlGByvetDcS1uomAoiBmy,4
+39,6mdiAmATAx73kdxrNrnlao,Iron Maiden,Hallowed Be Thy Name - 2015 Remaster,64,spotify:track:469rBLYJUZHMJLtq2Wch3h,5
+40,36QJpDe2go2KgaRleHCDTp,Led Zeppelin,Stairway to Heaven - Remaster,76,spotify:track:5CQ30WqJwcep0pYcV4AMNc,1
+41,36QJpDe2go2KgaRleHCDTp,Led Zeppelin,Immigrant Song - Remaster,75,spotify:track:78lgmZwycJ3nzsdgmPPGNx,2
+42,36QJpDe2go2KgaRleHCDTp,Led Zeppelin,Whole Lotta Love - 1990 Remaster,72,spotify:track:0hCB0YR03f6AmQaHbwWDe8,3
+43,36QJpDe2go2KgaRleHCDTp,Led Zeppelin,Black Dog - Remaster,69,spotify:track:3qT4bUD1MaWpGrTwcvguhb,4
+44,36QJpDe2go2KgaRleHCDTp,Led Zeppelin,Going to California - Remaster,68,spotify:track:70gbuMqwNBE2Y5rkQJE9By,5
+45,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,Kickstart My Heart,76,spotify:track:4Yqy0GpeDEXLibWJCZyQew,1
+46,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,"Girls, Girls, Girls",68,spotify:track:3439OLNIeD3y68kVuoZUO5,2
+47,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,Dr. Feelgood,66,spotify:track:5dnwXK73BDZ0H2L06ZrKcE,3
+48,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,Home Sweet Home,66,spotify:track:1kvq7ksGQWSyRysYYNd6lu,4
+49,0cc6vw3VN8YlIcvr1v7tBL,Mötley Crüe,Shout at the Devil,64,spotify:track:4VFNyv0nVew5C878WDsPvE,5
+50,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,Paranoid - 2009 Remaster,77,spotify:track:3Jnxngdff0lVu2rza1GVx6,1
+51,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,Iron Man - 2009 Remaster,67,spotify:track:755bvJDSA3LNcNuFgBT9LK,2
+52,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,War Pigs - 2009 Remaster,65,spotify:track:6TYQRlRci6AkVrN9a5C7ne,3
+53,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,N.I.B. - 2009 Remaster,63,spotify:track:3XclwoQxz4p6Dl7VUf90KW,4
+54,5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,Heaven and Hell,62,spotify:track:5qxN63QA4Hk1zgdLCsZFE2,5
+55,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,Chop Suey!,83,spotify:track:2DlHlPMa4M17kufBvI2lEN,1
+56,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,Toxicity,82,spotify:track:0snQkGI5qnAmohLE7jTsTn,2
+57,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,Lonely Day,79,spotify:track:1VNWaY3uNfoeWqb5U8x2QX,3
+58,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,Aerials,78,spotify:track:4e9eGQYsOiBcftrWXwsVco,4
+59,5eAWCfyUhZtHHtBdNk56l1,System Of A Down,B.Y.O.B.,75,spotify:track:0EYOdF5FCkgOJJla8DI2Md,5
+60,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,Breaking the Law,67,spotify:track:2RaA6kIcvomt77qlIgGhCT,1
+61,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,Painkiller,64,spotify:track:0L7zm6afBEtrNKo6C6Gj08,2
+62,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,You've Got Another Thing Coming,62,spotify:track:4f3RDq9nYPBeR1yMSgnmBm,3
+63,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,Living After Midnight,60,spotify:track:0IXpUl1fn2QZcBavfuq0H4,4
+64,2tRsMl4eGxwoNabM08Dm4I,Judas Priest,Electric Eye,57,spotify:track:3w9zHVKI28aUPZTxq8oDC6,5
+65,4CYeVo5iZbtYGBN4Isc3n6,Dio,Rainbow In The Dark,62,spotify:track:5qFxuUIAwJlzO60vqOiL7y,1
+66,4CYeVo5iZbtYGBN4Isc3n6,Dio,Holy Diver,62,spotify:track:54yLLvpezvPO1lA3GspiZj,2
+67,4CYeVo5iZbtYGBN4Isc3n6,Dio,The Last In Line,50,spotify:track:5fIZDuxfuM4tANRHZ8Btju,3
+68,4CYeVo5iZbtYGBN4Isc3n6,Dio,Don't Talk To Strangers,51,spotify:track:6ppPNxdwG8A5Ed8DlNLV6I,4
+69,4CYeVo5iZbtYGBN4Isc3n6,Dio,Stand Up And Shout,50,spotify:track:2HwtiwV8OgIwNuj1Wq9e0B,5
+70,1DFr97A9HnbV3SKTJFu62M,Motörhead,Ace of Spades,70,spotify:track:3CIOopLwvyMvXk97ZEksKO,1
+71,1DFr97A9HnbV3SKTJFu62M,Motörhead,The Game (Triple H),53,spotify:track:2zSpaFB7e0Yo1QKsDQ22Ol,2
+72,1DFr97A9HnbV3SKTJFu62M,Motörhead,Hellraiser - 30th Anniversary Edition,54,spotify:track:0BW3ImhGyAdbM62rHPyNNB,3
+73,1DFr97A9HnbV3SKTJFu62M,Motörhead,Overkill,56,spotify:track:4XvvR8F6qOcnzgChO1uTIO,4
+74,1DFr97A9HnbV3SKTJFu62M,Motörhead,God Was Never on Your Side,55,spotify:track:71LmwNWHchuDe1QwrEKsB1,5
+75,1IQ2e1buppatiN1bxUVkrk,Slayer,Delusions of Saviour,71,spotify:track:06WUUNf7q18NZfjIsQFsfa,1
+76,1IQ2e1buppatiN1bxUVkrk,Slayer,Raining Blood,66,spotify:track:4fiOTntQKr24p07FvQDHZE,2
+77,1IQ2e1buppatiN1bxUVkrk,Slayer,Angel Of Death,62,spotify:track:5ohfpKB5tt275f4Y4lQ9F7,3
+78,1IQ2e1buppatiN1bxUVkrk,Slayer,Repentless,61,spotify:track:6W2KBpMMXW17r7dPyqi8Iu,4
+79,1IQ2e1buppatiN1bxUVkrk,Slayer,South Of Heaven,59,spotify:track:3U9gogDStAfWxSm91PJuxb,5
+80,3RNrq3jvMZxD9ZyoOZbQOD,Korn,Freak On a Leash,77,spotify:track:6W21LNLz9Sw7sUSNWMSHRu,1
+81,3RNrq3jvMZxD9ZyoOZbQOD,Korn,Coming Undone,74,spotify:track:3o7TMr6RmIusYH7Kkg7ujR,2
+82,3RNrq3jvMZxD9ZyoOZbQOD,Korn,Falling Away from Me,72,spotify:track:2F6FfZ4w8z3eJpSxPotVO5,3
+83,3RNrq3jvMZxD9ZyoOZbQOD,Korn,Y'all Want a Single,65,spotify:track:2WSWm0zlL3CJRACHS5KXbB,4
+84,3RNrq3jvMZxD9ZyoOZbQOD,Korn,Got the Life,71,spotify:track:6nJPHXRpKYv2yqtalEjKy5,5
+85,05fG473iIaoy82BF1aGhL8,Slipknot,Duality,80,spotify:track:61mWefnWQOLf90gepjOCb3,1
+86,05fG473iIaoy82BF1aGhL8,Slipknot,Psychosocial,75,spotify:track:3RAFcUBrCNaboRXoP3S5t1,2
+87,05fG473iIaoy82BF1aGhL8,Slipknot,Before I Forget,76,spotify:track:6wqJeItl3Vc3az4ZicSQAB,3
+88,05fG473iIaoy82BF1aGhL8,Slipknot,Wait and Bleed,74,spotify:track:15DLl1r2zi07Ssq5RT1yT0,4
+89,05fG473iIaoy82BF1aGhL8,Slipknot,Custer,53,spotify:track:2PV3xcnPI7QMayUpGB4Xkv,5
+90,1dLWg6m8RRhizsdqJbhyj3,Quiet Riot,Cum on Feel the Noize,67,spotify:track:3vV3cr2TpPqFk07zxYUbla,1
+91,1dLWg6m8RRhizsdqJbhyj3,Quiet Riot,Metal Health (Bang Your Head),58,spotify:track:28clONjZmul6FjfO6tZQDE,2
+92,1dLWg6m8RRhizsdqJbhyj3,Quiet Riot,Bang Your Head (Metal Health) - Single Version,47,spotify:track:7kFMBTOVe1fBGI5PefWyY5,3
+93,1dLWg6m8RRhizsdqJbhyj3,Quiet Riot,Mama Weer All Crazee Now,44,spotify:track:2bkpCVvOn2XZGhzA4fPyuZ,4
+94,1dLWg6m8RRhizsdqJbhyj3,Quiet Riot,The Wild And The Young,41,spotify:track:6h0vHtXBWxIIuQ1pnRKCQu,5
+95,4opTS86dN9uO313J9CE8xg,Skid Row,18 and Life,71,spotify:track:3620P9KJS2PDebJ9ABFitc,1
+96,4opTS86dN9uO313J9CE8xg,Skid Row,I Remember You,67,spotify:track:1xqVri47rxr9oRpUgJa8rf,2
+97,4opTS86dN9uO313J9CE8xg,Skid Row,Youth Gone Wild,65,spotify:track:37Vzad7uGm0I9zJIFXlT4b,3
+98,4opTS86dN9uO313J9CE8xg,Skid Row,In a Darkened Room,60,spotify:track:05A9GC5OxmgvvRji2SCVzh,4
+99,4opTS86dN9uO313J9CE8xg,Skid Row,Monkey Business,57,spotify:track:4bINqmqxF9EUNcRvA0TZqi,5
+100,2cnMpRsOVqtPMfq7YiFE6K,Van Halen,Jump - 2015 Remaster,76,spotify:track:7N3PAbqfTjSEU1edb2tY8j,1
+101,2cnMpRsOVqtPMfq7YiFE6K,Van Halen,Panama - 2015 Remaster,72,spotify:track:05RgAMGypEvqhNs5hPCbMS,2
+102,2cnMpRsOVqtPMfq7YiFE6K,Van Halen,Ain't Talkin' 'Bout Love - 2015 Remaster,68,spotify:track:6fybp4N6eW3bsFAvARxyVe,3
+103,2cnMpRsOVqtPMfq7YiFE6K,Van Halen,Runnin' with the Devil - 2015 Remaster,67,spotify:track:3KhF2YiNpJvGpfiCW45R6D,4
+104,2cnMpRsOVqtPMfq7YiFE6K,Van Halen,You Really Got Me - 2015 Remaster,67,spotify:track:0upLyFR8Rr52ZpMp5esQoq,5
+105,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,Break Stuff,80,spotify:track:5cZqsjVs6MevCnAkasbEOX,1
+106,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,Rollin' (Air Raid Vehicle),77,spotify:track:3IV4swNduIRunHREK80owz,2
+107,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,Behind Blue Eyes,73,spotify:track:1MTQHCpraD4S8g5PAFKzoj,3
+108,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,Take A Look Around,73,spotify:track:2avKuMN2QXkaG9vvHa2JLt,4
+109,165ZgPlLkK7bf5bDoFc6Sb,Limp Bizkit,My Way,73,spotify:track:2gSVKxPDww9Eep5rdvtdem,5
+110,6olE6TJLqED3rqDCT0FyPh,Nirvana,Smells Like Teen Spirit,80,spotify:track:4CeeEOM32jQcH3eN9Q2dGj,1
+111,6olE6TJLqED3rqDCT0FyPh,Nirvana,Come As You Are,78,spotify:track:2RsAajgo0g7bMCHxwH3Sk0,2
+112,6olE6TJLqED3rqDCT0FyPh,Nirvana,Heart-Shaped Box,79,spotify:track:11LmqTE2naFULdEP94AUBa,3
+113,6olE6TJLqED3rqDCT0FyPh,Nirvana,About A Girl,77,spotify:track:2SHTKB8YYlawTGIuJ2b2ok,4
+114,6olE6TJLqED3rqDCT0FyPh,Nirvana,Lithium,71,spotify:track:5vHLwhxxlGzmClMcxRRFPr,5
+115,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,The Emptiness Machine,90,spotify:track:2PnlsTsOTLE5jnBnNe2K0A,1
+116,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,In the End,87,spotify:track:60a0Rd6pjrkxjPbaKzXjfq,2
+117,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,Numb,87,spotify:track:2nLtzopw4rPReszdYBJU6h,3
+118,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,Heavy Is the Crown,87,spotify:track:3fgehc497TFqKH1zBL2YNK,4
+119,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,Faint,84,spotify:track:4Yf5bqU3NK4kNOypcrLYwU,5
+120,4RddZ3iHvSpGV4dvATac9X,Papa Roach,Last Resort,80,spotify:track:5W8YXBz9MTIDyrpYaCg2Ky,1
+121,4RddZ3iHvSpGV4dvATac9X,Papa Roach,Scars,62,spotify:track:3TAtUJc4Sj913Cs5gBUeu0,2
+122,4RddZ3iHvSpGV4dvATac9X,Papa Roach,Help,68,spotify:track:0IbiFpXPFpvCAIs9WMX5wC,3
+123,4RddZ3iHvSpGV4dvATac9X,Papa Roach,Getting Away With Murder,58,spotify:track:40dHZ1HyySmu9FmTINRbqM,4
+124,4RddZ3iHvSpGV4dvATac9X,Papa Roach,Between Angels And Insects,65,spotify:track:24z528iI9kZu5LbkLainjI,5
+125,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,Wrong Side of Heaven,65,spotify:track:11Ojp7JniVvwd0gmgvyKkd,1
+126,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,Bad Company,61,spotify:track:1UWGkn34CD31VQfdi4D8Zp,2
+127,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,Jekyll and Hyde,62,spotify:track:6efSwlK3LOlWOeKK9xlUKF,3
+128,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,A Little Bit Off,67,spotify:track:6GqqGv8frU7kqzXkm2rewI,4
+129,5t28BP42x2axFnqOOMg3CM,Five Finger Death Punch,Wash It All Away,61,spotify:track:5nRBTzF9dLIlNqnl0xWo9g,5
+130,6deZN1bslXzeGvOLaLMOIF,Nickelback,How You Remind Me,83,spotify:track:0gmbgwZ8iqyMPmXefof8Yf,1
+131,6deZN1bslXzeGvOLaLMOIF,Nickelback,Rockstar - 2020 Remaster,71,spotify:track:05tlUh0E6IFks9sCQguQKN,2
+132,6deZN1bslXzeGvOLaLMOIF,Nickelback,Burn It to the Ground,74,spotify:track:1jq28NGw6wdtFKx8MBPy6C,3
+133,6deZN1bslXzeGvOLaLMOIF,Nickelback,Far Away - 2020 Remaster,69,spotify:track:05rWggLwQ2weA4D2cRAt55,4
+134,6deZN1bslXzeGvOLaLMOIF,Nickelback,Animals - 2020 Remaster,70,spotify:track:2TeEhtmhMQmUyQJhnJNvAs,5
+135,3HVdAiMNjYrQIKlOGxoGh5,Rob Zombie,Dragula,77,spotify:track:6Nm8h73ycDG2saCnZV8poF,1
+136,3HVdAiMNjYrQIKlOGxoGh5,Rob Zombie,Living Dead Girl,71,spotify:track:10V8XpuyMoEcSMfM79WDET,2
+137,3HVdAiMNjYrQIKlOGxoGh5,Rob Zombie,Superbeast,65,spotify:track:4eNnMvUrSu2TRpySjVC0Pv,3
+138,3HVdAiMNjYrQIKlOGxoGh5,Rob Zombie,Feel So Numb,62,spotify:track:6KnNDix4Owr4vNmsPhLmxD,4
+139,3HVdAiMNjYrQIKlOGxoGh5,Rob Zombie,Demon Speeding,58,spotify:track:605hJIiMrdsUjr4Vx4BFD6,5
+140,1E4r4z7ivGUcSAnCbINJ9v,Drowning Pool,Bodies,75,spotify:track:7CpbhqKUedOIrcvc94p60Y,1
+141,1E4r4z7ivGUcSAnCbINJ9v,Drowning Pool,Tear Away,63,spotify:track:3ENHpbTuY72FukZbwGP6bc,2
+142,1E4r4z7ivGUcSAnCbINJ9v,Drowning Pool,Sinner,59,spotify:track:4AaZtoVREGSOTMzdzLoCGK,3
+143,1E4r4z7ivGUcSAnCbINJ9v,Drowning Pool,One Finger and a Fist,55,spotify:track:5sSrK9FXfWbL5qwbMASHeb,4
+144,1E4r4z7ivGUcSAnCbINJ9v,Drowning Pool,Step Up,52,spotify:track:4Q1w4Ryyi8KNxxaFlOQClK,5
+145,0CF71zaDOJWCynIkW9bSK8,White Zombie,Thunder Kiss '65,63,spotify:track:4tvBoSWeIW0bjhKNre5mod,1
+146,0CF71zaDOJWCynIkW9bSK8,White Zombie,More Human Than Human,58,spotify:track:1NbJFhkVdD47YZ2IojKkJi,2
+147,0CF71zaDOJWCynIkW9bSK8,White Zombie,Super Charger Heaven,53,spotify:track:4qVZBA7jWL23SEWOfKFjiw,3
+148,0CF71zaDOJWCynIkW9bSK8,White Zombie,Black Sunshine,50,spotify:track:0D7aPFnFa9qIVFpOJ1ZBTG,4
+149,0CF71zaDOJWCynIkW9bSK8,White Zombie,Welcome To Planet Motherfucker/ Psychoholic Slag,48,spotify:track:5x8YLkZvKQDmZsD4cnCO06,5
+150,3JDIAtVrJdQ7GFOX26LYpv,Accept,Balls to the Wall,47,spotify:track:28sMmBCmfHoy6NjZnovEYG,1
+151,3JDIAtVrJdQ7GFOX26LYpv,Accept,Teutonic Terror,51,spotify:track:3crIa21lfjekujCQuGjlJT,2
+152,3JDIAtVrJdQ7GFOX26LYpv,Accept,Life's a Bitch,51,spotify:track:1KyA5lXW7cAgMLwxRdVAu3,3
+153,3JDIAtVrJdQ7GFOX26LYpv,Accept,Koolaid,49,spotify:track:249XHhBxBOblTCYStaC27L,4
+154,3JDIAtVrJdQ7GFOX26LYpv,Accept,Princess Of The Dawn,42,spotify:track:3PtaFRuHFIlF6ZcMVE4lF8,5
+155,7iWiAD5LLKyiox2grgfmUT,Bullet For My Valentine,Tears Don't Fall,55,spotify:track:7ln7o4q6y9h8qEc6hGrtr1,1
+156,7iWiAD5LLKyiox2grgfmUT,Bullet For My Valentine,Your Betrayal,65,spotify:track:25GC50HslaaruyrKjdu0lP,2
+157,7iWiAD5LLKyiox2grgfmUT,Bullet For My Valentine,All These Things I Hate (Revolve Around Me),47,spotify:track:4n0h6Qqf4TKeb2Bw1qC8PY,3
+158,7iWiAD5LLKyiox2grgfmUT,Bullet For My Valentine,Hand Of Blood,48,spotify:track:1EJzHoU6rg1afMozs9t6aM,4
+159,7iWiAD5LLKyiox2grgfmUT,Bullet For My Valentine,Waking the Demon,48,spotify:track:0k6wiMT26Wc3K4B2IiloUw,5
+160,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,The Diary of Jane - Single Version,74,spotify:track:0faXHILILebCGnJBPU6KJJ,1
+161,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,Awaken,71,spotify:track:7hr0WyhqQxrK3SQ9ZQxjTu,2
+162,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,Breath,68,spotify:track:4JXfNOePhdgMOI7KZ1L25U,3
+163,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,I Will Not Bow,69,spotify:track:2yXyz4NLTZx9CLdXfLTp5E,4
+164,5BtHciL0e0zOP7prIHn3pP,Breaking Benjamin,Dance With The Devil,66,spotify:track:10ASBwZsp7oUUDsJEYz3uS,5
+165,65A714FqhSPjoFZeffQbTv,Lindemann,Steh auf,55,spotify:track:2cwwUYTPOEfz0pam6tiVZz,1
+166,65A714FqhSPjoFZeffQbTv,Lindemann,Platz Eins,53,spotify:track:4kF5GADt85FeD8Y26RRyLY,2
+167,65A714FqhSPjoFZeffQbTv,Lindemann,Knebel,52,spotify:track:1C1MRQAQSuYWXJKziMZWoR,3
+168,65A714FqhSPjoFZeffQbTv,Lindemann,Ich weiß es nicht,51,spotify:track:22NDkUPSCwVbC3qtTV5JdA,4
+169,65A714FqhSPjoFZeffQbTv,Lindemann,Praise Abort,50,spotify:track:1IHCEJ8tsYLYy7n65C0CVe,5
+170,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,The Beautiful People,72,spotify:track:2aIB1CdRRG7YLBu9hNw9nR,1
+171,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,Sweet Dreams (Are Made Of This),69,spotify:track:2302lUwfZ4S4dVyPOCDFnQ,2
+172,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,Tainted Love,60,spotify:track:0ZeKQudydO2uQJpfr6gNC8,3
+173,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,This Is The New Shit,60,spotify:track:5P13mfqn9o3ToFPTxowEgO,4
+174,2VYQTNDsvvKN9wmU5W7xpj,Marilyn Manson,The Fight Song,62,spotify:track:6pfdW2NouUI3ZnugM7r0G0,5
+175,4f5V3PQ66nIrBCqugJtaGn,Death,Voice of the Soul,55,spotify:track:69Yia3qCLw6N9U80WhLwLn,1
+176,4f5V3PQ66nIrBCqugJtaGn,Death,Symbolic,50,spotify:track:0dpFb4qv92TE9R00Lq4SAW,2
+177,4f5V3PQ66nIrBCqugJtaGn,Death,Crystal Mountain,50,spotify:track:0ItAcLSkUiePOmFGun3cSe,3
+178,4f5V3PQ66nIrBCqugJtaGn,Death,Pull the Plug,51,spotify:track:2l0h4aBFLp9HdoaNdCTlbW,4
+179,4f5V3PQ66nIrBCqugJtaGn,Death,Spirit Crusher,50,spotify:track:3sSonVXqDeoEFj2lM7mpYT,5
+180,76S65NHJHrNy4JTrXHP2BH,Exodus,Blacklist,54,spotify:track:3iUJrkMilUVkUKtYZK7Th4,1
+181,76S65NHJHrNy4JTrXHP2BH,Exodus,The Toxic Waltz,48,spotify:track:5ZOOjqoCaUydmo8bxSdosj,2
+182,76S65NHJHrNy4JTrXHP2BH,Exodus,War Is My Shepherd,45,spotify:track:0ZvhRWvON9PFhIKwtZWDNB,3
+183,76S65NHJHrNy4JTrXHP2BH,Exodus,The Beatings Will Continue (Until Morale Improves),44,spotify:track:2gjsFjDTVacpoZPfGYaddw,4
+184,76S65NHJHrNy4JTrXHP2BH,Exodus,Bonded by Blood,43,spotify:track:2riiohLaKgMFlu4RQT1MPV,5
+185,5imUS9dQyCbAjUEJJ9QyWC,Powerman 5000,When Worlds Collide,64,spotify:track:6aF5JtQSrh7wNrkDE9B0My,1
+186,5imUS9dQyCbAjUEJJ9QyWC,Powerman 5000,Bombshell,52,spotify:track:2yY4ojg6wfEFBGVZoJuXqK,2
+187,5imUS9dQyCbAjUEJJ9QyWC,Powerman 5000,Supernova Goes Pop,46,spotify:track:7rAEUdstP2ZU8MOPGbHug6,3
+188,5imUS9dQyCbAjUEJJ9QyWC,Powerman 5000,Free,45,spotify:track:6G3waRixEIXegXfbRTaIqJ,4
+189,5imUS9dQyCbAjUEJJ9QyWC,Powerman 5000,Nobody's Real,44,spotify:track:2VGf3YQ6Zfzb6YyDatYAcY,5
+190,4MnZkh4dpNmTMPxkl4Ev5L,Symphony X,Without You,42,spotify:track:2YhaTZVlX8lgUTJQmPyTY5,1
+191,4MnZkh4dpNmTMPxkl4Ev5L,Symphony X,Sea of Lies,38,spotify:track:4wGBhMe3RFJt1wIxtQYIBo,2
+192,4MnZkh4dpNmTMPxkl4Ev5L,Symphony X,Paradise Lost,38,spotify:track:22sEfJxatkWlGVsqWKhtvY,3
+193,4MnZkh4dpNmTMPxkl4Ev5L,Symphony X,When All Is Lost,37,spotify:track:68lu5r63e68LlUZ6snJEvI,4
+194,4MnZkh4dpNmTMPxkl4Ev5L,Symphony X,Set the World on Fire (The Lie of Lies),37,spotify:track:6OZ6pBvrfCb6tRu6h2rzfG,5
+195,0ybFZ2Ab08V8hueghSXm6E,Opeth,Windowpane,52,spotify:track:4uJSCrI7r0usNJ3aaHAuC6,1
+196,0ybFZ2Ab08V8hueghSXm6E,Opeth,In My Time of Need,51,spotify:track:3WtsQAngIkmcNeqVeK3fXQ,2
+197,0ybFZ2Ab08V8hueghSXm6E,Opeth,§1 - Radio Edit,48,spotify:track:1wkWkXCdHR4nGViHA3I9Yc,3
+198,0ybFZ2Ab08V8hueghSXm6E,Opeth,Ghost of Perdition,50,spotify:track:0ppdt8zRZOHIKh4ZDB0Zp9,4
+199,0ybFZ2Ab08V8hueghSXm6E,Opeth,Harvest,47,spotify:track:0fBPwRmfNmOdpNcxOoli9Q,5
+200,4zvIE8a1h7L0IED4r4qKk1,John Petrucci,Glasgow Kiss,38,spotify:track:63sgFYtoXQRAN4tislSaWc,1
+201,4zvIE8a1h7L0IED4r4qKk1,John Petrucci,Terminal Velocity,34,spotify:track:3FNoShKmJkVElO7J43RreL,2
+202,4zvIE8a1h7L0IED4r4qKk1,John Petrucci,Happy Song,34,spotify:track:7BEQhzhNdQwHd9TE5Oti0U,3
+203,4zvIE8a1h7L0IED4r4qKk1,John Petrucci,Temple Of Circadia,33,spotify:track:4DkdmrJ1P8v1PFZrBZIuoV,4
+204,4zvIE8a1h7L0IED4r4qKk1,John Petrucci,Lost Without You,31,spotify:track:47rjlrHidiXawDCauP09b2,5
+205,32Jb1X3wSmmoHj2epZReZA,Steve Vai,Ego Death (feat. Steve Vai),56,spotify:track:2B3D38o8GaXnZo6DnTyZ2m,1
+206,32Jb1X3wSmmoHj2epZReZA,Steve Vai,For the Love of God,50,spotify:track:5m5I3KcV83zf2p2qbsnr3y,2
+207,32Jb1X3wSmmoHj2epZReZA,Steve Vai,King of the World,29,spotify:track:67uxI2Q6SDurYBcYinmjKa,3
+208,32Jb1X3wSmmoHj2epZReZA,Steve Vai,Tender Surrender,21,spotify:track:2eMPGG43Skmn0HcnRMP2Ph,4
+209,32Jb1X3wSmmoHj2epZReZA,Steve Vai,Halo Theme Gungnir Mix,42,spotify:track:3I6BkHyFTFuSFkuItDJstN,5
+210,0r1s1XoxdoXECGfyChzb2v,Liquid Tension Experiment,Acid Rain,40,spotify:track:7D1wLtyGaUppoqMleM6VqT,1
+211,0r1s1XoxdoXECGfyChzb2v,Liquid Tension Experiment,Paradigm Shift,35,spotify:track:65IpX5n4xwWeoXQNdtXHos,2
+212,0r1s1XoxdoXECGfyChzb2v,Liquid Tension Experiment,Universal Mind,34,spotify:track:5zNFTtuzuYNsGSfF3s1x7f,3
+213,0r1s1XoxdoXECGfyChzb2v,Liquid Tension Experiment,The Passage of Time,32,spotify:track:0VqKNoxYKpZjfEGc3rVFY8,4
+214,0r1s1XoxdoXECGfyChzb2v,Liquid Tension Experiment,Liquid Evolution,32,spotify:track:5LmNLowRv36pm4WfhsVrKN,5
+215,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,Warriors of the World United,57,spotify:track:02zclmxRto3GAUBdtV7D8i,1
+216,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,Kings of Metal,54,spotify:track:28TcG73tbc4iGrGBFjiBnR,2
+217,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,Fighting the World,51,spotify:track:2tjb6V24kf6sDUdEFNf3m9,3
+218,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,Heart of Steel,50,spotify:track:4YXhOackOMOlQTMAwsDHo6,4
+219,4CzUzn54Cp9TQr6a7JIlMZ,Manowar,Hail and Kill,49,spotify:track:5HkvAtKEPDLmchWYmepqYB,5
+220,1O8CSXsPwEqxcoBE360PPO,Stratovarius,Hunting High and Low,55,spotify:track:1vDJE9fE7FB8proknu3u8E,1
+221,1O8CSXsPwEqxcoBE360PPO,Stratovarius,Black Diamond,53,spotify:track:1EoN7hqAsyuTUrBjJPzWJF,2
+222,1O8CSXsPwEqxcoBE360PPO,Stratovarius,Eagleheart,49,spotify:track:0wC8UdkflVFiR95fL55Uzd,3
+223,1O8CSXsPwEqxcoBE360PPO,Stratovarius,Unbreakable - Remastered,48,spotify:track:1IaQLINjiOCSv4INrrv0aS,4
+224,1O8CSXsPwEqxcoBE360PPO,Stratovarius,Paradise,47,spotify:track:6ZbJnO5y5UvgnBD2WBWXGR,5
+225,2o18h28enlHxj887tATc58,HammerFall,Hearts on Fire,60,spotify:track:0eV3PB3T0OxW4feG1DlOjQ,1
+226,2o18h28enlHxj887tATc58,HammerFall,Last Man Standing,56,spotify:track:18S33odAheWBHbVAefiRLM,2
+227,2o18h28enlHxj887tATc58,HammerFall,Any Means Necessary,52,spotify:track:0PyZiU4DnQ23rUjx01XlIh,3
+228,2o18h28enlHxj887tATc58,HammerFall,At the End of the Rainbow,49,spotify:track:7K8tplxNrEPRR2wcc6y0xT,4
+229,2o18h28enlHxj887tATc58,HammerFall,Blood Bound,48,spotify:track:1tedBknW0ryQX3Z5e7tGZg,5
+230,3AGFqPP3gt5rMSvhR87Xxu,Edguy,King of Fools,48,spotify:track:4wEtmW6jIuPQ8NTYHbkOGm,1
+231,3AGFqPP3gt5rMSvhR87Xxu,Edguy,Superheroes,45,spotify:track:33j9ZDRyZn5pre5kvZ65Nm,2
+232,3AGFqPP3gt5rMSvhR87Xxu,Edguy,Vain Glory Opera,43,spotify:track:6EMTWm0HgzsvJiQQOqObEQ,3
+233,3AGFqPP3gt5rMSvhR87Xxu,Edguy,Tears of a Mandrake,42,spotify:track:2soaqea9OtrB2gD36zNF6s,4
+234,3AGFqPP3gt5rMSvhR87Xxu,Edguy,Rock Me Amadeus,38,spotify:track:0075v1NLfKBzSBvJauGCrF,5
+235,6SLAMfhOi7UJI0fMztaK0m,Rainbow,Since You Been Gone,65,spotify:track:6xq5DxZWGgdStAxGAil0yw,1
+236,6SLAMfhOi7UJI0fMztaK0m,Rainbow,The Temple Of The King,57,spotify:track:0gaMmmhGi5buPXpquSAfxg,2
+237,6SLAMfhOi7UJI0fMztaK0m,Rainbow,Man On The Silver Mountain,55,spotify:track:52bzQkgk8TznulGvKOPQTK,3
+238,6SLAMfhOi7UJI0fMztaK0m,Rainbow,Stargazer,53,spotify:track:1aDNYyeU62BuQsBAY18i48,4
+239,6SLAMfhOi7UJI0fMztaK0m,Rainbow,Catch The Rainbow,52,spotify:track:7FtRUrOEDUHTvenvp1BqZo,5
+240,3EhbVgyfGd7HkpsagwL9GS,Alice Cooper,Poison,71,spotify:track:5XcZRgJv3zMhTqCyESjQrF,1
+241,3EhbVgyfGd7HkpsagwL9GS,Alice Cooper,School's Out,64,spotify:track:5Z8EDau8uNcP1E8JvmfkZe,2
+242,3EhbVgyfGd7HkpsagwL9GS,Alice Cooper,No More Mr. Nice Guy,58,spotify:track:5D2eCwqbHcqOnfHOCM6TnV,3
+243,3EhbVgyfGd7HkpsagwL9GS,Alice Cooper,Feed My Frankenstein,56,spotify:track:7LDTB4kVmrLCU5TqKjZnzm,4
+244,3EhbVgyfGd7HkpsagwL9GS,Alice Cooper,I'm Eighteen,56,spotify:track:3YU9X8ryOR20beT7wOlDIJ,5
+245,2AM4ilv6UzW0uMRuqKtDgN,ZZ Top,La Grange (2005 Remaster),78,spotify:track:0u6JFVn0KHHlidZxNL9gVE,1
+246,2AM4ilv6UzW0uMRuqKtDgN,ZZ Top,Sharp Dressed Man (2008 Remaster),75,spotify:track:0bRNszTbTFLNlunAeh7eom,2
+247,2AM4ilv6UzW0uMRuqKtDgN,ZZ Top,Gimme All Your Lovin',68,spotify:track:29uKzagduhFDTWPCjqaGOg,3
+248,2AM4ilv6UzW0uMRuqKtDgN,ZZ Top,Tush (2006 Remaster),66,spotify:track:55WrYzR1SHfXeeU6DJbk3Y,4
+249,2AM4ilv6UzW0uMRuqKtDgN,ZZ Top,Legs (2008 Remaster),60,spotify:track:11oBg7EA3BgPLWrIx4Rv7D,5
+250,37394IP6uhnjIpsawpMu4l,Killswitch Engage,My Curse,66,spotify:track:6zKF4293k44ItKWJJgrhXv,1
+251,37394IP6uhnjIpsawpMu4l,Killswitch Engage,The End of Heartache,61,spotify:track:2nUy0ifVE7UwtOK4rugFsP,2
+252,37394IP6uhnjIpsawpMu4l,Killswitch Engage,This Fire,60,spotify:track:07ceEXOyS7ghQkyCOycXwP,3
+253,37394IP6uhnjIpsawpMu4l,Killswitch Engage,Holy Diver,61,spotify:track:3a9urnht8HvfFzPwd0ipx6,4
+254,37394IP6uhnjIpsawpMu4l,Killswitch Engage,In Due Time,55,spotify:track:1HlOGL1p6wlpOZatJ2NwFk,5
+255,1caBfBEapzw8z2Qz9q0OaQ,Asking Alexandria,Alone In A Room,64,spotify:track:5Gw8owErJLfkNxWCSwPQKJ,1
+256,1caBfBEapzw8z2Qz9q0OaQ,Asking Alexandria,Not The American Average,60,spotify:track:76LGCP0g9nVknR7HD2Jjyp,2
+257,1caBfBEapzw8z2Qz9q0OaQ,Asking Alexandria,I Won't Give In,60,spotify:track:7scGzRwZMeHzFNuEJgnzvh,3
+258,1caBfBEapzw8z2Qz9q0OaQ,Asking Alexandria,The Final Episode (Let's Change the Channel),59,spotify:track:01tsbILfgyMB1P3lc2cO7I,4
+259,1caBfBEapzw8z2Qz9q0OaQ,Asking Alexandria,Moving On,58,spotify:track:44sLQYgTQgGD5vCaijG8s2,5
+260,2zgG1GPDvjaBgxeQaVXI14,All That Remains,Two Weeks,59,spotify:track:0XT70Wk9pP8JZkmJhfntuL,1
+261,2zgG1GPDvjaBgxeQaVXI14,All That Remains,What If I Was Nothing,57,spotify:track:28urem2KpSOkljclEk8X8G,2
+262,2zgG1GPDvjaBgxeQaVXI14,All That Remains,Now Let Them Tremble,56,spotify:track:4e0UxWahq1WodcTzORiZCV,3
+263,2zgG1GPDvjaBgxeQaVXI14,All That Remains,This Calling,56,spotify:track:2vH5Fy44mcCDUrUk0XbvfH,4
+264,2zgG1GPDvjaBgxeQaVXI14,All That Remains,Six,53,spotify:track:3WRTADbL0criwvX6IQFex2,5
+265,159qqlGwzE04xyqpfAwRLo,Parkway Drive,Prey,57,spotify:track:7lMFAK8dv0QkWpIlZcWQlJ,1
+266,159qqlGwzE04xyqpfAwRLo,Parkway Drive,Carrion,56,spotify:track:0xfWKcNu13xxXQ2GT0P09M,2
+267,159qqlGwzE04xyqpfAwRLo,Parkway Drive,Glitch,55,spotify:track:1jKH10ufuA4EzUCdobVxu0,3
+268,159qqlGwzE04xyqpfAwRLo,Parkway Drive,The Void,55,spotify:track:5znIVOv7RucpCHGkbonySq,4
+269,159qqlGwzE04xyqpfAwRLo,Parkway Drive,Vice Grip,54,spotify:track:0AHHDAHFRaT82UVw5fMr1R,5
+270,34c4iQ5tkaZKu6Sv28BTde,Danzig,Mother,69,spotify:track:7txxAtOMwLLnQTpKeBL6bp,1
+271,34c4iQ5tkaZKu6Sv28BTde,Danzig,Twist Of Cain,51,spotify:track:25ZH79eefRHT8CUo15UFjo,2
+272,34c4iQ5tkaZKu6Sv28BTde,Danzig,Am I Demon,51,spotify:track:0kZpg64mTDk3V6jhGGEd7M,3
+273,34c4iQ5tkaZKu6Sv28BTde,Danzig,Long Way Back From Hell,49,spotify:track:6sD2mCUjmi0S3PTKxdW1Lc,4
+274,34c4iQ5tkaZKu6Sv28BTde,Danzig,Blood And Tears,49,spotify:track:1Gt07aYIpl5yJcTbH95s7v,5
+275,6SER9tY2pDIDVWVf5Ql97B,Prong,"Snap Your Fingers, Snap Your Neck",51,spotify:track:7hgtn706RqLE5q1mWe8aQx,1
+276,6SER9tY2pDIDVWVf5Ql97B,Prong,Whose Fist Is This Anyway?,36,spotify:track:5yBHLw5gTRaAWb04Y2pkwi,2
+277,6SER9tY2pDIDVWVf5Ql97B,Prong,Revenge...Served Cold,33,spotify:track:42WyUbj8kCRhUoOc4A2F4B,3
+278,6SER9tY2pDIDVWVf5Ql97B,Prong,Another Wordly Device,29,spotify:track:6n8MMAosWh6TtdXjm1Nf7G,4
+279,6SER9tY2pDIDVWVf5Ql97B,Prong,Beg To Differ,29,spotify:track:2GI0AwCcgNFNWG2PT2CfnG,5
+280,7JDSHlDdVTo7aZKdQZ53Vf,Static-X,Push It,62,spotify:track:6O7pihLJgeqxUnG7u9oYL2,1
+281,7JDSHlDdVTo7aZKdQZ53Vf,Static-X,The Only,62,spotify:track:35ZmCVnfYRdK1iLGCxNhMa,2
+282,7JDSHlDdVTo7aZKdQZ53Vf,Static-X,Cold - 2022 Remaster,49,spotify:track:6BZ5pRMvPfxsJLLeztmme5,3
+283,7JDSHlDdVTo7aZKdQZ53Vf,Static-X,Skinnyman,50,spotify:track:6doZryBQYC5hQJdx1lyc2W,4
+284,7JDSHlDdVTo7aZKdQZ53Vf,Static-X,I'm With Stupid,52,spotify:track:6uOzYMGucTA0MAFwS2FNB2,5
+285,7HL4id2U7FSDJtfKQHMgQx,Cinderella,Don't Know What You Got (Till It's Gone),59,spotify:track:5QRs63VVKNaqUjg6XSSckM,1
+286,7HL4id2U7FSDJtfKQHMgQx,Cinderella,Nobody's Fool,58,spotify:track:01Q4wU19hamqnhNjtuvTyI,2
+287,7HL4id2U7FSDJtfKQHMgQx,Cinderella,Gypsy Road,57,spotify:track:2F8Glc7r4mHHSCEegD4Ju1,3
+288,7HL4id2U7FSDJtfKQHMgQx,Cinderella,Shake Me,55,spotify:track:1Qjpl8Kav6rrO92ZuG0OK8,4
+289,7HL4id2U7FSDJtfKQHMgQx,Cinderella,Somebody Save Me,52,spotify:track:3fjiaIx6KFssAz3C8TaUec,5
+290,7HLvzuM9p11k9lUQfSM4Rq,Warrant,Cherry Pie,61,spotify:track:18ESXa5mEm1V4Pkt5GSXWx,1
+291,7HLvzuM9p11k9lUQfSM4Rq,Warrant,Heaven,57,spotify:track:2dEgwtRjYl6TJkIwjRwn6z,2
+292,7HLvzuM9p11k9lUQfSM4Rq,Warrant,Uncle Tom's Cabin,48,spotify:track:01EE19A34FoehGnVosOFes,3
+293,7HLvzuM9p11k9lUQfSM4Rq,Warrant,Sometimes She Cries,48,spotify:track:0m5RdyFFcOKhut3sGkeWHG,4
+294,7HLvzuM9p11k9lUQfSM4Rq,Warrant,Down Boys,46,spotify:track:0dw3dXWx6dgp7Ri3HeDBUq,5
+295,6H1RjVyNruCmrBEWRbD0VZ,Def Leppard,Pour Some Sugar On Me - Remastered 2017,72,spotify:track:0PdM2a6oIjqepoEfcJo0RO,1
+296,6H1RjVyNruCmrBEWRbD0VZ,Def Leppard,Hysteria,69,spotify:track:2PFIZFcGry0po3ZfRZkzKc,2
+297,6H1RjVyNruCmrBEWRbD0VZ,Def Leppard,Photograph,66,spotify:track:18URo35acNKRTHfEdjTcGn,3
+298,6H1RjVyNruCmrBEWRbD0VZ,Def Leppard,Love Bites - Remastered 2017,62,spotify:track:3Dfy8YIxq89i84t108TvMi,4
+299,6H1RjVyNruCmrBEWRbD0VZ,Def Leppard,Animal,64,spotify:track:4qjscZh4jfhkpcQG4ZQfi2,5
+300,3pulcT2wt7FEG10lQlqDJL,Amon Amarth,Twilight Of The Thunder God,58,spotify:track:5u3l2TONYacJgmRPQVaF9y,1
+301,3pulcT2wt7FEG10lQlqDJL,Amon Amarth,Raise Your Horns,56,spotify:track:6ypKaenmVXMCXvlkfYOpjf,2
+302,3pulcT2wt7FEG10lQlqDJL,Amon Amarth,Put Your Back Into The Oar,55,spotify:track:4fY2JR0REUiykvzRw61sk9,3
+303,3pulcT2wt7FEG10lQlqDJL,Amon Amarth,Guardians Of Asgaard,55,spotify:track:2DR9AzDhYeStkHupvU08FC,4
+304,3pulcT2wt7FEG10lQlqDJL,Amon Amarth,The Pursuit Of Vikings,54,spotify:track:0sObxZUKqdPfgjG9ahSlP5,5
+305,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,Are You Dead Yet?,56,spotify:track:52s05aBQd2LVc6EWIQCQI1,1
+306,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,Needled 24 / 7,48,spotify:track:1aKrYw2i1mWRPMOUUe3dT8,2
+307,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,If You Want Peace... Prepare For War,48,spotify:track:43NEu8Y1AiHMtjsDiBS64T,3
+308,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,Oops!...I Did It Again,48,spotify:track:06wKZYu5dpve2WRS5O34MI,4
+309,1xUhNgw4eJDZfvumIpcz1B,Children Of Bodom,In Your Face,46,spotify:track:06aAaOhylOXXBRDZW4NyP2,5
+310,57ylwQTnFnIhJh4nu4rxCs,In Flames,Only for the Weak,62,spotify:track:0JBQnLKfLXmlkquabLtAgd,1
+311,57ylwQTnFnIhJh4nu4rxCs,In Flames,Meet Your Maker,59,spotify:track:5qZMqZspIglsy4SJxtJt0S,2
+312,57ylwQTnFnIhJh4nu4rxCs,In Flames,The Jester's Dance,58,spotify:track:5qEZvemAAeZ8E9KmyyGaLe,3
+313,57ylwQTnFnIhJh4nu4rxCs,In Flames,I Am Above,55,spotify:track:2t1G0rDxUY9zjML3f5mObb,4
+314,57ylwQTnFnIhJh4nu4rxCs,In Flames,Cloud Connected,57,spotify:track:7fw1s9GkS288i2HQxMMlas,5
+315,4jpaXieuls7LVzG1uma5Rs,Avatar,The Dirt I'm Buried In,55,spotify:track:4OjAxkNVwleUdCUS098eBw,1
+316,4jpaXieuls7LVzG1uma5Rs,Avatar,Hail the Apocalypse,52,spotify:track:0PMxzdeOobkZzeSGVV8jo9,2
+317,4jpaXieuls7LVzG1uma5Rs,Avatar,The Eagle Has Landed,46,spotify:track:1gDRnCCl3s5Lr7rBFYVbRU,3
+318,4jpaXieuls7LVzG1uma5Rs,Avatar,Let It Burn,51,spotify:track:0tPkGeymvg02oRCbrEHr2l,4
+319,4jpaXieuls7LVzG1uma5Rs,Avatar,Bloody Angel,49,spotify:track:2cQkslUQT9nyvmMNTftd4S,5
+320,7wqP36o9lqWteOCxBnXlwx,Soilwork,Distortion Sleep,53,spotify:track:3yPQrLnNIthn4I5wQ51X26,1
+321,7wqP36o9lqWteOCxBnXlwx,Soilwork,Stålfågel,51,spotify:track:4HOVQhtjFCRGY9PnsLoR86,2
+322,7wqP36o9lqWteOCxBnXlwx,Soilwork,Nerve,49,spotify:track:4ubsyGydOcYNC3B9mxuN8l,3
+323,7wqP36o9lqWteOCxBnXlwx,Soilwork,Stabbing the Drama,48,spotify:track:4XFykLS5W3LCvEQ5QfU01P,4
+324,7wqP36o9lqWteOCxBnXlwx,Soilwork,Spirit Of No Return,48,spotify:track:1hihjb5dQTw4otuRxQy5cj,5
+325,3BVkDHWRvLJEyKdvhLbjsq,W.A.S.P.,I Wanna Be Somebody,55,spotify:track:6w8dBm5KlXxWejYrbGS1EJ,1
+326,3BVkDHWRvLJEyKdvhLbjsq,W.A.S.P.,Wild Child,54,spotify:track:3iC3Numiy9P3AkF7iioKmx,2
+327,3BVkDHWRvLJEyKdvhLbjsq,W.A.S.P.,Sleeping (In The Fire),48,spotify:track:6uBO5ou5gJy8kDBUZrK9nR,3
+328,3BVkDHWRvLJEyKdvhLbjsq,W.A.S.P.,Animal (Fuck Like A Beast),48,spotify:track:22KezdnLpayPKz4aTDt899,4
+329,3BVkDHWRvLJEyKdvhLbjsq,W.A.S.P.,Miss You,46,spotify:track:2vtIydWBcUBvlJfRZ4kRrq,5
+330,71vVmHeNgCVSa5SVmfvscU,Saxon,Princess of the Night,51,spotify:track:2Quz6deYulrojpI9Bi3lXl,1
+331,71vVmHeNgCVSa5SVmfvscU,Saxon,Wheels of Steel (1997 - Remaster),46,spotify:track:2mDcmwDZ6mWAzS8xneMEUL,2
+332,71vVmHeNgCVSa5SVmfvscU,Saxon,Ride Like the Wind,45,spotify:track:6CaVpbOmyDAaRsNtdKGXIu,3
+333,71vVmHeNgCVSa5SVmfvscU,Saxon,And the Bands Played on,44,spotify:track:68X21eASo99EgVBj3ikULa,4
+334,71vVmHeNgCVSa5SVmfvscU,Saxon,Crusader,43,spotify:track:7623cs9y5l1b6uPXZ4U2ny,5
+335,4pQN0GB0fNEEOfQCaWotsY,Helloween,I Want Out - 2024 Remaster,61,spotify:track:2lp0PO2D90zcFWy8toVqgn,1
+336,4pQN0GB0fNEEOfQCaWotsY,Helloween,Forever and One (Neverland) (2024 Remaster),49,spotify:track:4JtlSNG23w7WbMCekGUJak,2
+337,4pQN0GB0fNEEOfQCaWotsY,Helloween,Future World - 2024 Remaster,53,spotify:track:1RJV0ehtxjfViTBsowIhEs,3
+338,4pQN0GB0fNEEOfQCaWotsY,Helloween,A Tale That Wasn't Right - 2024 Remaster,52,spotify:track:18XBoS4OTPBL3m9otvRnCI,4
+339,4pQN0GB0fNEEOfQCaWotsY,Helloween,Eagle Fly Free - 2024 Remaster,51,spotify:track:1J69IqVQm0ZA11Tw94omT6,5
+340,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,War Eternal,57,spotify:track:0WZZENH0kt3O2cBE8q5IRq,1
+341,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,Nemesis,54,spotify:track:27sTzAelgljD6Uxp88BqA3,2
+342,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,Liars & Thieves,52,spotify:track:3yxUpNlToBwRVPMYm1FpyL,3
+343,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,Handshake with Hell,51,spotify:track:4jPU94aF0U2PMNN0aBnhgX,4
+344,0DCw6lHkzh9t7f8Hb4Z0Sx,Arch Enemy,The Eagle Flies Alone - edit,51,spotify:track:7KoWRwwVUgZV5D0zmrr25s,5
+345,0lVlNsuGaOr9vMHCZIAKMt,Machine Head,Is There Anybody Out There?,61,spotify:track:5aeIj88MLdekYvObw5Yisk,1
+346,0lVlNsuGaOr9vMHCZIAKMt,Machine Head,Davidian,55,spotify:track:3qHlBxD3acw5nrl7Padt0v,2
+347,0lVlNsuGaOr9vMHCZIAKMt,Machine Head,Locust,46,spotify:track:2fed1yXI1clOEddfGyKyH2,3
+348,0lVlNsuGaOr9vMHCZIAKMt,Machine Head,Game Over,50,spotify:track:27oqpECc2wygxRAIBCgxHa,4
+349,0lVlNsuGaOr9vMHCZIAKMt,Machine Head,Circle The Drain,50,spotify:track:61nq0jg2PYWxUUiarofGBI,5
+350,1BBIIH0h76KN8gYeXFcPjR,Corrosion Of Conformity,Clean My Wounds,22,spotify:track:4ZFpDyMYERWUNII6WerEsu,1
+351,1BBIIH0h76KN8gYeXFcPjR,Corrosion Of Conformity,Vote with a Bullet,47,spotify:track:5Z7U8TRHAlX2uL2lVYv5Wa,2
+352,1BBIIH0h76KN8gYeXFcPjR,Corrosion Of Conformity,Albatross,18,spotify:track:2tvJxl68dCRF2u05BIGTA3,3
+353,1BBIIH0h76KN8gYeXFcPjR,Corrosion Of Conformity,Stare Too Long,39,spotify:track:4PqdAqAffcFFL2rvGWTzaT,4
+354,1BBIIH0h76KN8gYeXFcPjR,Corrosion Of Conformity,Dance Of The Dead,35,spotify:track:6K0Av403T8gWOHLJGsw1vw,5
+355,1m0B9ak05G0jqDY4ACLhQu,DOWN,Stone the Crow,48,spotify:track:0n3iMDinxSVg3WbOBajMaH,1
+356,1m0B9ak05G0jqDY4ACLhQu,DOWN,Bury Me In Smoke,38,spotify:track:7JrezhyX4xgFQ644ibJWBO,2
+357,1m0B9ak05G0jqDY4ACLhQu,DOWN,Lifer,37,spotify:track:4hLT8xQnOjrLDUTgHLPyvS,3
+358,1m0B9ak05G0jqDY4ACLhQu,DOWN,Rehab,40,spotify:track:0GURoVDI0jlEyMH0VYWObt,4
+359,1m0B9ak05G0jqDY4ACLhQu,DOWN,Temptation's Wings,34,spotify:track:673urm9ohj952cbkWiO0BI,5
+360,4fE4Bf0MM6lMJpHiHniPuW,Damageplan,Save Me,44,spotify:track:6md1gc3K7hCNE45Dx0IVeg,1
+361,4fE4Bf0MM6lMJpHiHniPuW,Damageplan,Pride,43,spotify:track:2fokXxR9CAlxF6zoQVp4tx,2
+362,4fE4Bf0MM6lMJpHiHniPuW,Damageplan,Breathing New Life,38,spotify:track:6L0VDmm1RUUkfpEQHoRx7O,3
+363,4fE4Bf0MM6lMJpHiHniPuW,Damageplan,Fuck You,37,spotify:track:6uBWlHNKcK1P8FDlPPd94u,4
+364,4fE4Bf0MM6lMJpHiHniPuW,Damageplan,New Found Power,37,spotify:track:7dJZjbVExc2xjdhJAqgkbv,5
+365,3up7wqUGMUTm0184V57RTH,Probot,Shake Your Blood (feat. Lemmy Kilmister),44,spotify:track:6MVBXTAioGnP57AcGYaQNw,1
+366,3up7wqUGMUTm0184V57RTH,Probot,I Am the Warlock (feat. Jack Black),39,spotify:track:3n3FKYskxltScdqTn6CJem,2
+367,3up7wqUGMUTm0184V57RTH,Probot,Red War (feat. Max Cavalera),33,spotify:track:50yNzFihIICERxWKYg9UQU,3
+368,3up7wqUGMUTm0184V57RTH,Probot,Access Babylon (feat. Mike Dean),31,spotify:track:4IhYseuQLzhs2PnXcqZEM6,4
+369,3up7wqUGMUTm0184V57RTH,Probot,Centuries of Sin (feat. Cronos),29,spotify:track:5cAP7NNxWH2sHDTv8ZrRIr,5
+370,74Hj7BmnUXyx2udrIEIKwX,Fear Factory,Linchpin,54,spotify:track:4qjvr0qMFUo26SxwC4VygS,1
+371,74Hj7BmnUXyx2udrIEIKwX,Fear Factory,Replica,52,spotify:track:5YeQoMo5py82YmqXMTjM5S,2
+372,74Hj7BmnUXyx2udrIEIKwX,Fear Factory,Soul Hacker,46,spotify:track:1ZEHPid4qHr05Z7QpwLJuW,3
+373,74Hj7BmnUXyx2udrIEIKwX,Fear Factory,Edgecrusher,45,spotify:track:12PJ8kfsZI7bZP3DGmsjqy,4
+374,74Hj7BmnUXyx2udrIEIKwX,Fear Factory,Regenerate,45,spotify:track:1Ap7Pcv488cgz1AcZd5K6M,5
+375,278ZYwGhdK6QTzE3MFePnP,Trivium,The Heart from Your Hate,60,spotify:track:5yDJpu0xh0d1w13gXaE3lS,1
+376,278ZYwGhdK6QTzE3MFePnP,Trivium,Until the World Goes Cold,54,spotify:track:1hPKSQuvfLlPeIu8xhRyTf,2
+377,278ZYwGhdK6QTzE3MFePnP,Trivium,In Waves,56,spotify:track:1yYr4D1KjhhyDD5bZIiFQy,3
+378,278ZYwGhdK6QTzE3MFePnP,Trivium,Strife,56,spotify:track:15zUfY9L1p7bN9JsgaTAP0,4
+379,278ZYwGhdK6QTzE3MFePnP,Trivium,Dying in Your Arms,52,spotify:track:2nuA1esWzYEgnfQ4DpsSsm,5
+380,3JFsVIxOn7STeilPICkkB2,Lamb of God,Laid to Rest,61,spotify:track:4VdQBhm4dnvBPgZfFNjSzH,1
+381,3JFsVIxOn7STeilPICkkB2,Lamb of God,Redneck,61,spotify:track:1WZVnw0YWc7OLkVijEargx,2
+382,3JFsVIxOn7STeilPICkkB2,Lamb of God,Memento Mori,56,spotify:track:5I29F9GR0OkaU1nuxp9hU8,3
+383,3JFsVIxOn7STeilPICkkB2,Lamb of God,Walk with Me In Hell,56,spotify:track:0Aq5S8Did22z1YrpO7MJIG,4
+384,3JFsVIxOn7STeilPICkkB2,Lamb of God,Floods of Triton,56,spotify:track:08IpZZZPvzDMED3oq9F8Or,5
+385,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon,Blood and Thunder,59,spotify:track:3jagGO7eHHuaD53ibehkux,1
+386,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon,Floods of Triton,56,spotify:track:08IpZZZPvzDMED3oq9F8Or,2
+387,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon,The Motherload,54,spotify:track:6EF0xhfKtQNqUPz2mnE5BD,3
+388,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon,Oblivion,50,spotify:track:4Ynr1SPCeUI0W0YPeSFSIK,4
+389,1Dvfqq39HxvCJ3GvfeIFuT,Mastodon,Steambreather,51,spotify:track:4Ut80ggQbyiJN2pGCs7VfB,5
+390,3ggwAqZD3lyT2sbovlmfQY,Meshuggah,Bleed,57,spotify:track:4E6wpXABj8XosZEPXZz2OK,1
+391,3ggwAqZD3lyT2sbovlmfQY,Meshuggah,Demiurge,50,spotify:track:4LB264fAdV4BPK99w4UMxl,2
+392,3ggwAqZD3lyT2sbovlmfQY,Meshuggah,Rational Gaze,48,spotify:track:5uqr3lCMWkyQx6yTvoMl4F,3
+393,3ggwAqZD3lyT2sbovlmfQY,Meshuggah,Combustion,47,spotify:track:2gSUtqdBM4k39be9FzQjOH,4
+394,3ggwAqZD3lyT2sbovlmfQY,Meshuggah,Born in Dissonance,45,spotify:track:6GYyGwbJeHyFj9po98ZGpS,5
+395,7o6cOczXTB8ioTAAJTbESf,Jinjer,AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer),50,spotify:track:0MVhJOLU3VhNRzWLwTtA26,1
+396,7o6cOczXTB8ioTAAJTbESf,Jinjer,Pisces,57,spotify:track:5t8NXa2fugcTPsTfhVILmS,2
+397,7o6cOczXTB8ioTAAJTbESf,Jinjer,Someone's Daughter,48,spotify:track:2ZGrOclH0r6CFvlVGNVUlO,3
+398,7o6cOczXTB8ioTAAJTbESf,Jinjer,Kafka,49,spotify:track:5xA7brxtQFDNQBJDyOHHWc,4
+399,7o6cOczXTB8ioTAAJTbESf,Jinjer,Rogue,47,spotify:track:7BBSSVDxCwfZKbb8a1IlTB,5
+400,1IHjrY7ygKbmLVoUV1VcXc,Superheaven,Youngest Daughter,71,spotify:track:3tYxhPqkioZEV5el3DJxLQ,1
+401,1IHjrY7ygKbmLVoUV1VcXc,Superheaven,Poor Aileen,60,spotify:track:7fezQws2k5Fy98X4UScIbH,2
+402,1IHjrY7ygKbmLVoUV1VcXc,Superheaven,In On It,59,spotify:track:0ey0KwCzoUdjvPzbLX8qSa,3
+403,1IHjrY7ygKbmLVoUV1VcXc,Superheaven,Leach,57,spotify:track:3pnw86Nzm1nLdX5w9ZeObP,4
+404,1IHjrY7ygKbmLVoUV1VcXc,Superheaven,I've Been Bored,54,spotify:track:3zi9xNpG2WHCdCAxV0BpJm,5
+405,4DUQBYAyOTZotSEdKhaf6c,Basement,Covet,71,spotify:track:1AMADyXgIWayh5vXLZo2qF,1
+406,4DUQBYAyOTZotSEdKhaf6c,Basement,Are You The One,58,spotify:track:6wxW10ewY9UlXw7IFsD6eu,2
+407,4DUQBYAyOTZotSEdKhaf6c,Basement,Whole,55,spotify:track:29EPImPtRiMHXONTJGMhip,3
+408,4DUQBYAyOTZotSEdKhaf6c,Basement,Pine,50,spotify:track:4gOruiqFXrOAYwmECxZfw6,4
+409,4DUQBYAyOTZotSEdKhaf6c,Basement,Oversized,48,spotify:track:4YM6Ujbv89VpprqasAXcwS,5
+410,64tNsm6TnZe2zpcMVMOoHL,Alice In Chains,Man in the Box,74,spotify:track:6gZVQvQZOFpzIy3HblJ20F,1
+411,64tNsm6TnZe2zpcMVMOoHL,Alice In Chains,Would? (2022 Remaster),72,spotify:track:5sFDReWLrZHLFZFjHsjUTS,2
+412,64tNsm6TnZe2zpcMVMOoHL,Alice In Chains,Nutshell,72,spotify:track:2JuasWPUodaUxf5nwNpciQ,3
+413,64tNsm6TnZe2zpcMVMOoHL,Alice In Chains,Them Bones (2022 Remaster),72,spotify:track:4A065x9kJt955eGVqf813g,4
+414,64tNsm6TnZe2zpcMVMOoHL,Alice In Chains,Rooster (2022 Remaster),70,spotify:track:0wvIGFIgbyz4JNwQhZgTv2,5
+415,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,Stranded,66,spotify:track:60fUDmIWuKhngaeBIVhqIV,1
+416,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,Mea Culpa (Ah! Ça ira!),63,spotify:track:4AFjPeecGnS3999PV5iOSK,2
+417,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,Silvera,61,spotify:track:5uunXHE4kIW6uS4HWAXaOQ,3
+418,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,Flying Whales,60,spotify:track:5OjCsHeByDYEGxMrb1z8KQ,4
+419,0GDGKpJFhVpcjIGF8N6Ewt,Gojira,L'enfant sauvage,57,spotify:track:4PWxt9Fy949kUtkEi2GI5V,5
+420,17Mb968quDHpjCkIyq30QV,Hatebreed,Looking Down the Barrel of Today,62,spotify:track:5IVA7WzOlWrmZh8EqZqMaw,1
+421,17Mb968quDHpjCkIyq30QV,Hatebreed,I Will Be Heard,53,spotify:track:4Lxn1JlGJwmmXpODrNvPA6,2
+422,17Mb968quDHpjCkIyq30QV,Hatebreed,Destroy Everything,53,spotify:track:501CSzS4gwNOJnlWHuBt9r,3
+423,17Mb968quDHpjCkIyq30QV,Hatebreed,Seven Enemies,50,spotify:track:6oOQNOCjGmgfC0lUpqa6yV,4
+424,17Mb968quDHpjCkIyq30QV,Hatebreed,Serve Your Masters,49,spotify:track:5Hv503Ba09jzzBJMBluGmD,5
+425,79el7mcHYhXYW3Zek21i0L,DevilDriver,Sail,51,spotify:track:2QusYlHgyVRNu05c36wWlJ,1
+426,79el7mcHYhXYW3Zek21i0L,DevilDriver,Clouds over California,49,spotify:track:6K4qjwuMpp9AT4uuKw2LLQ,2
+427,79el7mcHYhXYW3Zek21i0L,DevilDriver,End of the Line,43,spotify:track:4xmqKax9V7L10f5uHJeMyb,3
+428,79el7mcHYhXYW3Zek21i0L,DevilDriver,Hold Back the Day,41,spotify:track:4GD5BxOohT6wN4eoAAzCvd,4
+429,79el7mcHYhXYW3Zek21i0L,DevilDriver,I Could Care Less,41,spotify:track:0ntxdLfa94B6leRcsu9Ur8,5
+430,0eI3X5rAzHRZVe5FPk4MN1,Bad Wolves,Zombie,74,spotify:track:5d8Wq39QLT6OQWsY9paz5n,1
+431,0eI3X5rAzHRZVe5FPk4MN1,Bad Wolves,Killing Me Slowly,65,spotify:track:5RBWMYMSe6ihNb0hC8ro8v,2
+432,0eI3X5rAzHRZVe5FPk4MN1,Bad Wolves,Remember When,62,spotify:track:2VAQAqrKu8n1eUWPlTzVox,3
+433,0eI3X5rAzHRZVe5FPk4MN1,Bad Wolves,Hear Me Now,62,spotify:track:5bINaNAghUCg4uHIsuDgjG,4
+434,0eI3X5rAzHRZVe5FPk4MN1,Bad Wolves,Sober,60,spotify:track:4fqmCurSlIJRhPlCjPqGhK,5
+435,70BYFdaZbEKbeauJ670ysI,Shinedown,Second Chance,69,spotify:track:0CwYG1UnRmOx8Q1EzElCIL,1
+436,70BYFdaZbEKbeauJ670ysI,Shinedown,Sound of Madness,68,spotify:track:0W9Xvd4Qx1aZPxEi94vgRY,2
+437,70BYFdaZbEKbeauJ670ysI,Shinedown,Cut the Cord,65,spotify:track:4LFBVDJV0xpayUvquQVzhS,3
+438,70BYFdaZbEKbeauJ670ysI,Shinedown,45,65,spotify:track:420JGkyLfLUZcgBHKiIK9v,4
+439,70BYFdaZbEKbeauJ670ysI,Shinedown,MONSTERS,65,spotify:track:1qAuIPMALdFtGv2Ymjy5l0,5
+440,6gZq1Q6bdOxsUPUG1TaFbF,Godsmack,I Stand Alone,68,spotify:track:44NRdYQw7P0GWuiunRv3hr,1
+441,6gZq1Q6bdOxsUPUG1TaFbF,Godsmack,Bulletproof,57,spotify:track:4Pp7tPCBM9ywQexWvCz6iH,2
+442,6gZq1Q6bdOxsUPUG1TaFbF,Godsmack,Awake,64,spotify:track:6xXlurslWqFuyqTCBlErzX,3
+443,6gZq1Q6bdOxsUPUG1TaFbF,Godsmack,Voodoo,63,spotify:track:5uGsG0LfotfWDq6hql4h53,4
+444,6gZq1Q6bdOxsUPUG1TaFbF,Godsmack,Cryin' Like A Bitch!!,63,spotify:track:4a9i7rCLfPjbS1sNamZeQN,5
+445,6B5c4sch27tWHAGdarpPaW,Seether,Fake It,73,spotify:track:4eAwB5pnKFTmsgc3zWoYO0,1
+446,6B5c4sch27tWHAGdarpPaW,Seether,Remedy,69,spotify:track:5ynxx6zC4dgzsMHLYQ04Dc,2
+447,6B5c4sch27tWHAGdarpPaW,Seether,Broken,68,spotify:track:507bYMYfbm6sUS9iEAaeSd,3
+448,6B5c4sch27tWHAGdarpPaW,Seether,Fine Again,66,spotify:track:4eTIe5eqds88bA9ua6p5p6,4
+449,6B5c4sch27tWHAGdarpPaW,Seether,Careless Whisper,64,spotify:track:46eHxWRKmtYhUHPDRgclt6,5
+450,5YeoQ1L71cXDMpSpqxOjfH,Sonata Arctica,Tallulah,47,spotify:track:33F4l7xj1cEeiqyUCfHlvw,1
+451,5YeoQ1L71cXDMpSpqxOjfH,Sonata Arctica,FullMoon,46,spotify:track:2OcgUwz7uomyLpOi0juero,2
+452,5YeoQ1L71cXDMpSpqxOjfH,Sonata Arctica,Paid In Full,44,spotify:track:4SBdLXD2erUeCscaVRKQ0L,3
+453,5YeoQ1L71cXDMpSpqxOjfH,Sonata Arctica,I Have A Right,43,spotify:track:7ezLp2vGnRv1y38Itlw8Xc,4
+454,5YeoQ1L71cXDMpSpqxOjfH,Sonata Arctica,Replica,44,spotify:track:2A4rfHIusMPUyTN2RAgsKw,5
+455,0zQfrabOFYf36Ikb6PXcCY,Rhapsody,Emerald Sword,51,spotify:track:5efydZMkYiKSdRnvjCtTqo,1
+456,0zQfrabOFYf36Ikb6PXcCY,Rhapsody,Dawn of Victory,50,spotify:track:2Wy6uQOX2y45ooKuQb7Q9B,2
+457,0zQfrabOFYf36Ikb6PXcCY,Rhapsody,Holy Thunderforce,44,spotify:track:7vvbcPlj9bCOyx0gAmESg2,3
+458,0zQfrabOFYf36Ikb6PXcCY,Rhapsody,Power of the Dragonflame,42,spotify:track:0PXA1IlMwAK2fuAKVfCAyz,4
+459,0zQfrabOFYf36Ikb6PXcCY,Rhapsody,Triumph for My Magic Steel,41,spotify:track:0T0Odnj3dRmmtpEzH4ZFuJ,5
+460,1OHNvr18TssBKYK0A75yvx,Masterplan,Heroes,48,spotify:track:1BaJ4KLFgnveSRGKBwRWve,1
+461,1OHNvr18TssBKYK0A75yvx,Masterplan,Spirit Never Die,44,spotify:track:6NckTLOMeZFE9sqx4EyisQ,2
+462,1OHNvr18TssBKYK0A75yvx,Masterplan,Kind Hearted Light,43,spotify:track:2cxtdKFeXk4F10nd8TZORl,3
+463,1OHNvr18TssBKYK0A75yvx,Masterplan,Enlighten Me,37,spotify:track:7BstGdOO0UoQATL6UsFCzb,4
+464,1OHNvr18TssBKYK0A75yvx,Masterplan,When Love Comes Close,36,spotify:track:1AWIrCRUkah9En7yTNGNEm,5
+465,1fBCIkoPOPCDLUxGuWNvyo,Poison,Every Rose Has Its Thorn - 2003 Remaster,67,spotify:track:43GS3mtezoIFiuIZCLLiDY,1
+466,1fBCIkoPOPCDLUxGuWNvyo,Poison,Nothin' But A Good Time - Remastered 2006,67,spotify:track:2V8KvnD5LVeeDChMWEkSzC,2
+467,1fBCIkoPOPCDLUxGuWNvyo,Poison,Talk Dirty To Me,59,spotify:track:08QP0rwnQSbbpGRIuXfrAY,3
+468,1fBCIkoPOPCDLUxGuWNvyo,Poison,Unskinny Bop,59,spotify:track:1Z6lKdYhwp8WYoBqGCKxlM,4
+469,1fBCIkoPOPCDLUxGuWNvyo,Poison,Fallen Angel - Remastered 2006,56,spotify:track:27kMqdX3aoN3gBndVKlTfR,5
+470,3UbyYnvNIT5DFXU4WgiGpP,Whitesnake,Is This Love - 2018 Remaster,65,spotify:track:3pHpV3pa96s4vuBP7sQq0V,1
+471,3UbyYnvNIT5DFXU4WgiGpP,Whitesnake,Here I Go Again - 2018 Remaster,65,spotify:track:6Nd6ntkzr4t8o1FKPGOSMt,2
+472,3UbyYnvNIT5DFXU4WgiGpP,Whitesnake,Here I Go Again - Radio Mix,54,spotify:track:5yRAFKdtf6CXxESXbXV1lp,3
+473,3UbyYnvNIT5DFXU4WgiGpP,Whitesnake,Still of the Night - 2018 Remaster,56,spotify:track:7AtwQRLPdttsxcLM5tPL0t,4
+474,3UbyYnvNIT5DFXU4WgiGpP,Whitesnake,Here I Go Again - 2011 Remaster,52,spotify:track:567EwOGPAXg7Y9DQZTEFEE,5
+475,07XSN3sPlIlB2L2XNcTwJw,KISS,I Was Made For Lovin' You,60,spotify:track:6S9q9mEifNdnTNlli2xSuD,1
+476,07XSN3sPlIlB2L2XNcTwJw,KISS,Rock And Roll All Nite,45,spotify:track:0fCWbJq1hagsRgShtn6gIU,2
+477,07XSN3sPlIlB2L2XNcTwJw,KISS,Detroit Rock City,43,spotify:track:0PQ51hZtABYRaXNHkVpAfD,3
+478,07XSN3sPlIlB2L2XNcTwJw,KISS,Heaven's On Fire,40,spotify:track:01fv3ehMBP3wZoWcjOCHWh,4
+479,07XSN3sPlIlB2L2XNcTwJw,KISS,Lick It Up,37,spotify:track:0wriasAXzNoXPX31XYiba3,5
+480,711MCceyCBcFnzjGY4Q7Un,AC/DC,Highway to Hell,84,spotify:track:2zYzyRzz6pRmhPzyfMEC8s,1
+481,711MCceyCBcFnzjGY4Q7Un,AC/DC,Thunderstruck,83,spotify:track:57bgtoPSgt236HzfBOd8kj,2
+482,711MCceyCBcFnzjGY4Q7Un,AC/DC,Back In Black,83,spotify:track:08mG3Y1vljYA6bvDt4Wqkj,3
+483,711MCceyCBcFnzjGY4Q7Un,AC/DC,You Shook Me All Night Long,82,spotify:track:2SiXAy7TuUkycRVbbWDEpo,4
+484,711MCceyCBcFnzjGY4Q7Un,AC/DC,T.N.T.,78,spotify:track:7LRMbd3LEoV5wZJvXT1Lwb,5
+485,7b85ve82Sh36a3UAx74wut,Twisted Sister,We're Not Gonna Take It - 2024 Remaster,60,spotify:track:1jqBju1B8zyuC8EPvkEjlE,1
+486,7b85ve82Sh36a3UAx74wut,Twisted Sister,I Wanna Rock - 2024 Remaster,56,spotify:track:2W0DiHBOo2zezZncnt3R9o,2
+487,7b85ve82Sh36a3UAx74wut,Twisted Sister,The Price - 2024 Remaster,44,spotify:track:19Ns8NvNH6K4QiCD7dZwOU,3
+488,7b85ve82Sh36a3UAx74wut,Twisted Sister,The Kids Are Back,52,spotify:track:7xzmJPFQAn0O1ZYYtbGRlz,4
+489,7b85ve82Sh36a3UAx74wut,Twisted Sister,Burn in Hell - 2024 Remaster,37,spotify:track:0WHrGAeQ30bgzqCdUbFQHV,5
+490,2Pfv2w8a20xzC7Dr7QXRqM,Mudvayne,Happy?,66,spotify:track:0INUE1K7cEiE8VH63Rv5RJ,1
+491,2Pfv2w8a20xzC7Dr7QXRqM,Mudvayne,Dig,41,spotify:track:3H0ZY55seypgo0zXI6zwRk,2
+492,2Pfv2w8a20xzC7Dr7QXRqM,Mudvayne,Scream With Me,26,spotify:track:2EItYZ8aRACXf8ZHjX6taf,3
+493,2Pfv2w8a20xzC7Dr7QXRqM,Mudvayne,Forget to Remember - From Saw II - Original Soundtrack,55,spotify:track:0h5D9uxuZRAfq6qMMX34vN,4
+494,2Pfv2w8a20xzC7Dr7QXRqM,Mudvayne,Not Falling,52,spotify:track:15TzkwxGNvM3RGib0YkH4T,5
+495,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,Judith,63,spotify:track:5KDNFlHAdDJ84fhK27c35X,1
+496,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,The Outsider,61,spotify:track:6CqYhhUPJORx1vvdTNc8jv,2
+497,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,3 Libras,58,spotify:track:5kHkaBN8OEQlmXfQkACxSt,3
+498,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,Weak And Powerless,58,spotify:track:7gDVjl5fEw2OPAtjbW4LzR,4
+499,4DFhHyjvGYa9wxdHUjtDkc,A Perfect Circle,Pet,57,spotify:track:27msmgcdSRniJHfocEf6EH,5
+500,5xUf6j4upBrXZPg6AI4MRK,Soundgarden,Black Hole Sun,76,spotify:track:2EoOZnxNgtmZaD8uUmz2nD,1
+501,5xUf6j4upBrXZPg6AI4MRK,Soundgarden,Fell On Black Days,66,spotify:track:1wlKw9NAWVWpx7OIAyg9EA,2
+502,5xUf6j4upBrXZPg6AI4MRK,Soundgarden,Spoonman,65,spotify:track:1jMaB19DiVR8OihLSuYFOt,3
+503,5xUf6j4upBrXZPg6AI4MRK,Soundgarden,Outshined - Remastered 2016,61,spotify:track:4VwPsMcRt1HPVKIdcwY9Uj,4
+504,5xUf6j4upBrXZPg6AI4MRK,Soundgarden,Rusty Cage - Remastered 2016,59,spotify:track:6hqIXyo6GxydAnoI8XeIrV,5
+505,5XDeFQDarnwpR5WAfD6S0d,Warlock,All We Are,49,spotify:track:2dU4FegjbgW5qkdrUdzogT,1
+506,5XDeFQDarnwpR5WAfD6S0d,Warlock,I Rule The Ruins,40,spotify:track:5NDKzxaHrykhfbd316XIqW,2
+507,5XDeFQDarnwpR5WAfD6S0d,Warlock,Three Minute Warning,32,spotify:track:5uIA6zqWxN33A8dYtupqFo,3
+508,5XDeFQDarnwpR5WAfD6S0d,Warlock,Für immer,31,spotify:track:039wfsptSMfLNW4VZq1jZS,4
+509,5XDeFQDarnwpR5WAfD6S0d,Warlock,True As Steel,30,spotify:track:6FukRn41rvbH9AjUjnrFDR,5
+510,7jxJ25p0pPjk0MStloN6o6,Blind Guardian,The Bard's Song - In the Forest - Remastered 2007,54,spotify:track:7xPGvZaG9W7UOrCgEwbONe,1
+511,7jxJ25p0pPjk0MStloN6o6,Blind Guardian,Mirror Mirror - Remastered 2007,48,spotify:track:4gFhLQA90CAFuS0Ma8aIiX,2
+512,7jxJ25p0pPjk0MStloN6o6,Blind Guardian,Skalds and Shadows,47,spotify:track:1pJa9UimhswE2Vw6i89Cwi,3
+513,7jxJ25p0pPjk0MStloN6o6,Blind Guardian,Valhalla,46,spotify:track:5JHQnFsdxFCwqJze3z7hQJ,4
+514,7jxJ25p0pPjk0MStloN6o6,Blind Guardian,Finsterwacht,43,spotify:track:4afcKs20o8XwQeF2ILL6U1,5
+515,6e8ISIsI7UQZPyEorefAhK,Dimmu Borgir,Puritania,50,spotify:track:0bKs1y9PTFBddM9qj0JGvb,1
+516,6e8ISIsI7UQZPyEorefAhK,Dimmu Borgir,Gateways,46,spotify:track:5JxyDHWj4XMRgvuRzWd9JK,2
+517,6e8ISIsI7UQZPyEorefAhK,Dimmu Borgir,Interdimensional Summit,45,spotify:track:3c272JQ5S83nlQ8rjrK5Ur,3
+518,6e8ISIsI7UQZPyEorefAhK,Dimmu Borgir,Progenies of the Great Apocalypse,45,spotify:track:38pLq8WPZAOYBHnvAgPp9u,4
+519,6e8ISIsI7UQZPyEorefAhK,Dimmu Borgir,Mourning Palace,44,spotify:track:2t0DnOIEpkbJqDc6h1IKnw,5
+520,0NTSMFFapnyZfvmCwzcYPd,Cradle Of Filth,Nymphetamine Fix,51,spotify:track:6WuqJLVZcyJklg7lIozAO8,1
+521,0NTSMFFapnyZfvmCwzcYPd,Cradle Of Filth,Malignant Perfection,48,spotify:track:2NVntSbt0SCX7FZI6dmdQv,2
+522,0NTSMFFapnyZfvmCwzcYPd,Cradle Of Filth,Hallowed Be Thy Name,47,spotify:track:0mJUxFpEI1eAOIIfnNoZ4G,3
+523,0NTSMFFapnyZfvmCwzcYPd,Cradle Of Filth,From the Cradle to Enslave,45,spotify:track:14JG4VbsqeLsFuDJlkybOT,4
+524,0NTSMFFapnyZfvmCwzcYPd,Cradle Of Filth,Temptation,45,spotify:track:5SXom2SWwb8YxyfpUOQUp2,5
+525,09hNSPPOxDop4FRdr6UEnq,Dokken,Alone Again,57,spotify:track:5Q916vqrwfON21qlJiXpSz,1
+526,09hNSPPOxDop4FRdr6UEnq,Dokken,In My Dreams,53,spotify:track:6PEgQw6tesqhzsqGk3ZfeH,2
+527,09hNSPPOxDop4FRdr6UEnq,Dokken,Breaking The Chains,52,spotify:track:3PZJwntD9O7WLXm2g2jTmD,3
+528,09hNSPPOxDop4FRdr6UEnq,Dokken,Dream Warriors,46,spotify:track:4b2IiksA1MUmbck4Bse0yK,4
+529,09hNSPPOxDop4FRdr6UEnq,Dokken,Into The Fire,45,spotify:track:21bsbyKu71chEElLJ58FZE,5
+530,6ZPbX2Lxd40e2UVkXpyxvI,Great White,Once Bitten Twice Shy,55,spotify:track:07nxmAxwhY51juyImllKD2,1
+531,6ZPbX2Lxd40e2UVkXpyxvI,Great White,Rock Me,47,spotify:track:0OhusLY3xIViFynFjTi4EA,2
+532,6ZPbX2Lxd40e2UVkXpyxvI,Great White,House Of Broken Love,44,spotify:track:15FpPWrhLYw491BGwL9VzZ,3
+533,6ZPbX2Lxd40e2UVkXpyxvI,Great White,Call It Rock N' Roll,41,spotify:track:1uCwzX4cdrbTlTCL07PWJX,4
+534,6ZPbX2Lxd40e2UVkXpyxvI,Great White,Save Your Love,40,spotify:track:6SpXH87n5RTPIwGvyqPRFp,5
+535,2qQeKHrQJHLLbvDAOSO874,Winger,Seventeen,56,spotify:track:4ENa9MbktJjV3HiTnlsg2b,1
+536,2qQeKHrQJHLLbvDAOSO874,Winger,Miles Away,54,spotify:track:6Hp98J9Z9hRE100nivqg86,2
+537,2qQeKHrQJHLLbvDAOSO874,Winger,Easy Come Easy Go,44,spotify:track:7I0mAU0RCFqokOL9sTbhnH,3
+538,2qQeKHrQJHLLbvDAOSO874,Winger,Down Incognito,42,spotify:track:1Y9knEZGtCICyGuyIaKTbL,4
+539,2qQeKHrQJHLLbvDAOSO874,Winger,Headed for a Heartbreak,42,spotify:track:0KlprCNZnru5bkqnhUM4Y9,5
+540,3tufWJzpCiAGleBt5TkmTn,Ratt,Round and Round,66,spotify:track:57P8gH8rjt4OqEoqzut1bL,1
+541,3tufWJzpCiAGleBt5TkmTn,Ratt,Lay It Down,60,spotify:track:0d3qwh4HY9w6Ywywj6ksTv,2
+542,3tufWJzpCiAGleBt5TkmTn,Ratt,You're in Love,53,spotify:track:191IZHdn5NNTMsb68Dpe6O,3
+543,3tufWJzpCiAGleBt5TkmTn,Ratt,Way Cool Jr.,48,spotify:track:2qZl3kbwMC6bJcEHrm8AGt,4
+544,3tufWJzpCiAGleBt5TkmTn,Ratt,Wanted Man,46,spotify:track:7si505L0BOMwJ8A806S1Kw,5
+545,45KpBChrKYWhTlU6N57ofu,Kix,Don't Close Your Eyes,44,spotify:track:7wrBlgNqYBAC5yFfO4fnYb,1
+546,45KpBChrKYWhTlU6N57ofu,Kix,Cold Blood,35,spotify:track:1B7LH1eBudymShtn88qoEt,2
+547,45KpBChrKYWhTlU6N57ofu,Kix,Blow My Fuse,30,spotify:track:7jCc2Dz8PfHN3YoxDezkUl,3
+548,45KpBChrKYWhTlU6N57ofu,Kix,Don't Close Your Eyes,34,spotify:track:0r0yw4tbNQSauuWXw0dFwM,4
+549,45KpBChrKYWhTlU6N57ofu,Kix,Girl Money,35,spotify:track:79A7CDgqh8SMvTbgA53pIC,5
+550,5lhaM01nwvsMZpmPY2HVER,Carcass,1985,53,spotify:track:0IGyvk01FMUUHCST3N85Uq,1
+551,5lhaM01nwvsMZpmPY2HVER,Carcass,Keep On Rotting in the Free World,44,spotify:track:57Gu14wW9hFBUmJ0LpmzmA,2
+552,5lhaM01nwvsMZpmPY2HVER,Carcass,Black Star,44,spotify:track:5Nodfi0wQT9QANl0KlAo7B,3
+553,5lhaM01nwvsMZpmPY2HVER,Carcass,No Love Lost,42,spotify:track:3Qq08meHcEtnciS6oQxXMJ,4
+554,5lhaM01nwvsMZpmPY2HVER,Carcass,Heartwork,41,spotify:track:2BcWjgafmbdaq39KPsaBKc,5
+555,0SbGI4sb8dAKFZnK7RFyhz,Obituary,Redneck Stomp,50,spotify:track:2fSYadDsbWMtIVqX7flKIc,1
+556,0SbGI4sb8dAKFZnK7RFyhz,Obituary,Chopped in Half,44,spotify:track:01cGujYWGF7JchJLSgf6Ta,2
+557,0SbGI4sb8dAKFZnK7RFyhz,Obituary,Visions in My Head,44,spotify:track:1JvMOOYZjXLQCZ5p5b0JJD,3
+558,0SbGI4sb8dAKFZnK7RFyhz,Obituary,Slowly We Rot,44,spotify:track:5F6ZrWLngDICyjazxM1gNq,4
+559,0SbGI4sb8dAKFZnK7RFyhz,Obituary,Violence,39,spotify:track:5pGd0pOplAoV1Id7Y0S3jm,5
+560,0yLwGBQiBqhXOvmTfH2A7n,Cannibal Corpse,Inhumane Harvest,46,spotify:track:5WGvXmLt6acluR7TfhlHUH,1
+561,0yLwGBQiBqhXOvmTfH2A7n,Cannibal Corpse,"Stripped, Raped, And Strangled",44,spotify:track:1sWcWDgthOikmqaHdfTfW2,2
+562,0yLwGBQiBqhXOvmTfH2A7n,Cannibal Corpse,Blood Blind,42,spotify:track:2mgCxt6lPwiGFpro3urJ97,3
+563,0yLwGBQiBqhXOvmTfH2A7n,Cannibal Corpse,Make Them Suffer,42,spotify:track:1zXTJp4mMwu2y69LajfzFK,4
+564,0yLwGBQiBqhXOvmTfH2A7n,Cannibal Corpse,Fucked With A Knife,42,spotify:track:2ZK3pWvGZTlklRiDqNdnUf,5
+565,0dR10i73opHXuRuLbgxltM,Mayhem,Freezing Moon,53,spotify:track:4AP3a7eEOlz5sTJiWnv2C6,1
+566,0dR10i73opHXuRuLbgxltM,Mayhem,Chainsaw Gutsfuck,49,spotify:track:0GoyU0X4nwqUigVwBPSDen,2
+567,0dR10i73opHXuRuLbgxltM,Mayhem,Deathcrush,48,spotify:track:5wWRdIjndDOh1j4OXAPpdD,3
+568,0dR10i73opHXuRuLbgxltM,Mayhem,Funeral Fog,44,spotify:track:2lXi7xN0MiTfLb2DW7H9UT,4
+569,0dR10i73opHXuRuLbgxltM,Mayhem,De Mysteriis Dom Sathanas,43,spotify:track:3zjoCDlA31nt9s1QXsEqxr,5
+570,2pnezMcaiTHfGmgmGQjLsB,Entombed,Wolverine Blues,47,spotify:track:6WBdwdLLif4kuG3s6ot8uB,1
+571,2pnezMcaiTHfGmgmGQjLsB,Entombed,Left Hand Path,42,spotify:track:5faD0zZ9fMa3J5ZN3lIWtp,2
+572,2pnezMcaiTHfGmgmGQjLsB,Entombed,Stranger Aeons,41,spotify:track:6sW4cDGHnul55JYRWPJsWh,3
+573,2pnezMcaiTHfGmgmGQjLsB,Entombed,Supposed To Rot,39,spotify:track:5CU8oOEfI9IoZQxcjC2D2B,4
+574,2pnezMcaiTHfGmgmGQjLsB,Entombed,Revel In Flesh,39,spotify:track:48zi76YORvpiYO67liH70R,5
+575,6wWVKhxIU2cEi0K81v7HvP,Rammstein,Sonne,76,spotify:track:3gVhsZtseYtY1fMuyYq06F,1
+576,6wWVKhxIU2cEi0K81v7HvP,Rammstein,Du hast,73,spotify:track:6XcoiOYiNbIxzpt8WRxq8Z,2
+577,6wWVKhxIU2cEi0K81v7HvP,Rammstein,Deutschland,73,spotify:track:2bPGTMB5sFfFYQ2YvSmup0,3
+578,6wWVKhxIU2cEi0K81v7HvP,Rammstein,Engel,69,spotify:track:5Zuboc3Cj9Ldnc8HyUnNUK,4
+579,6wWVKhxIU2cEi0K81v7HvP,Rammstein,Feuer frei!,67,spotify:track:5aNH8inF5BsbThDeOLs7zs,5
+580,3hE8S8ohRErocpkY7uJW4a,Within Temptation,Faster,62,spotify:track:4XBtYPGMAYJkuJu2w4pmYl,1
+581,3hE8S8ohRErocpkY7uJW4a,Within Temptation,The Reckoning,55,spotify:track:6XnPopwCZ6odHVVqMsllL5,2
+582,3hE8S8ohRErocpkY7uJW4a,Within Temptation,Angels,57,spotify:track:4QWLhGVitrCCysR3ugX9Xw,3
+583,3hE8S8ohRErocpkY7uJW4a,Within Temptation,Shot in the Dark,55,spotify:track:5JpbpsjhJeNwixBzbobklV,4
+584,3hE8S8ohRErocpkY7uJW4a,Within Temptation,And We Run (feat. Xzibit),54,spotify:track:4AJGaPCvod4mWjBLWPfH3b,5
+585,5HA5aLY3jJV7eimXWkRBBp,Epica,"Cry for the Moon (The Embrace That Smothers , Pt. 4)",52,spotify:track:66iX4HzM7YnmxmUZOSCG2F,1
+586,5HA5aLY3jJV7eimXWkRBBp,Epica,Sensorium,49,spotify:track:5Souga96S54RLFk30XrEJP,2
+587,5HA5aLY3jJV7eimXWkRBBp,Epica,Abyss of Time - Countdown to Singularity -,47,spotify:track:627pEZNVSQ3iUyvOoxXVUw,3
+588,5HA5aLY3jJV7eimXWkRBBp,Epica,Unchain Utopia,46,spotify:track:0KH0Ox65pRJ4F2kCDrm3gt,4
+589,5HA5aLY3jJV7eimXWkRBBp,Epica,Storm the Sorrow,46,spotify:track:54dFYX1WmZFpu3Teceo5lY,5
+590,7k5jeohQCF20a8foBD9ize,Battle Beast,Eden,52,spotify:track:68sLf8iqi43JZVw3eOdzwy,1
+591,7k5jeohQCF20a8foBD9ize,Battle Beast,King for a Day,51,spotify:track:6OcE7aXYmNEwF6H7Ei9Y3q,2
+592,7k5jeohQCF20a8foBD9ize,Battle Beast,Straight to the Heart,50,spotify:track:5CgFJ4mJ22XGN3JRj3XAg2,3
+593,7k5jeohQCF20a8foBD9ize,Battle Beast,Master of Illusion,50,spotify:track:5uezGrwjyarcPOH8uYGdXk,4
+594,7k5jeohQCF20a8foBD9ize,Battle Beast,Wings of Light,48,spotify:track:69Tm9WdAS2Y74e99YBfZOE,5
+595,1Ih0fEQQsy9EeAJbYEeQRa,Avantasia,Lay All Your Love on Me,55,spotify:track:5Lrgau7HgSVX01iFIkRe0F,1
+596,1Ih0fEQQsy9EeAJbYEeQRa,Avantasia,Moonglow,49,spotify:track:1fKaObKEtnVZrnhcqqLKAx,2
+597,1Ih0fEQQsy9EeAJbYEeQRa,Avantasia,The Story Ain't Over,46,spotify:track:1Oqn1E8ZvO4yvXe7bygvyb,3
+598,1Ih0fEQQsy9EeAJbYEeQRa,Avantasia,Dying for an Angel - The Wicked Symphony,45,spotify:track:7dIOlmWKSZoaKXtFZw5Lm5,4
+599,1Ih0fEQQsy9EeAJbYEeQRa,Avantasia,Farewell,45,spotify:track:4Qe4jyrOpoUeph5U8gwwxA,5
+600,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,Army of the Night,61,spotify:track:6vQT1Y3MTGCpc31VIF5Ela,1
+601,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,Demons Are a Girl's Best Friend,58,spotify:track:1KCDsPKFISNM2YZFFAoI7s,2
+602,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,We Drink Your Blood,58,spotify:track:3pWvRhml43vlUrGYlIzLM6,3
+603,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,Sanctified with Dynamite,56,spotify:track:2ZUUturolW3VpzXWzPEy2X,4
+604,5HFkc3t0HYETL4JeEbDB1v,Powerwolf,Sinners of the Seven Seas,51,spotify:track:5LDrzjiXepAwUibop6NWqy,5
+605,3OpqU68JpZlzvjAJj3B2Da,Alestorm,Drink,55,spotify:track:0SPHbfBIe0mdRnae2MWuzr,1
+606,3OpqU68JpZlzvjAJj3B2Da,Alestorm,Fucked with an Anchor,53,spotify:track:6ySfvnEGsR5keLq9f3i1AU,2
+607,3OpqU68JpZlzvjAJj3B2Da,Alestorm,Keelhauled,51,spotify:track:2FBmddNjVLziN4AxfUmdQe,3
+608,3OpqU68JpZlzvjAJj3B2Da,Alestorm,P.A.R.T.Y.,49,spotify:track:3RsKNR9GMIaMADAxpPRLmG,4
+609,3OpqU68JpZlzvjAJj3B2Da,Alestorm,Mexico,49,spotify:track:6xEcJi5tmXFhaT0m62VZd9,5
+610,0WPCPYm5IDNtQjuJOGNPcy,Brothers of Metal,Yggdrasil,60,spotify:track:3V417nSM4Ilh0Tt5CqustV,1
+611,0WPCPYm5IDNtQjuJOGNPcy,Brothers of Metal,Ride of the Valkyries,57,spotify:track:1npDycvcBm6bTnaajiTv3X,2
+612,0WPCPYm5IDNtQjuJOGNPcy,Brothers of Metal,Prophecy of Ragnarök,56,spotify:track:4kpWVGdFjBSoCkIcHVlTqn,3
+613,0WPCPYm5IDNtQjuJOGNPcy,Brothers of Metal,Kaunaz Dagaz,55,spotify:track:313f3J4lGMA0irUrWaUXUh,4
+614,0WPCPYm5IDNtQjuJOGNPcy,Brothers of Metal,The Other Son of Odin,44,spotify:track:480bA7oNCvzQpDf07z3kny,5
+615,0rEuaTPLMhlViNCJrg3NEH,Beast In Black,Die By The Blade,60,spotify:track:53h1ZSLWi8hVWF9DWKNXVh,1
+616,0rEuaTPLMhlViNCJrg3NEH,Beast In Black,Sweet True Lies,59,spotify:track:2cyJkqB2OYHwWWvKGtrJ0r,2
+617,0rEuaTPLMhlViNCJrg3NEH,Beast In Black,One Night In Tokyo,59,spotify:track:2TZtQt10Ajm3wB4MoqluZj,3
+618,0rEuaTPLMhlViNCJrg3NEH,Beast In Black,Blind And Frozen,57,spotify:track:7iOSeHfKU2EhSKcX7TbjKG,4
+619,0rEuaTPLMhlViNCJrg3NEH,Beast In Black,From Hell With Love,56,spotify:track:3iKSyNDGzJ3FcjXoDKqehS,5
+620,7dkEByOe0oHqc54qU4hwzV,Gloryhammer,Hootsforce,54,spotify:track:5gJ1DNzFHwNFlEw1UltyFk,1
+621,7dkEByOe0oHqc54qU4hwzV,Gloryhammer,Angus Mcfife,51,spotify:track:1jSQRvpQYPcIKt67fc5Npv,2
+622,7dkEByOe0oHqc54qU4hwzV,Gloryhammer,Universe on Fire,48,spotify:track:3e77C0bCaFIUXNFxI075D9,3
+623,7dkEByOe0oHqc54qU4hwzV,Gloryhammer,Keeper of the Celestial Flame of Abernethy,47,spotify:track:7xTjCWrYgCXNvXw6V4iGdy,4
+624,7dkEByOe0oHqc54qU4hwzV,Gloryhammer,Fly Away,47,spotify:track:0KRMfSzkY5G4ORX2jJDX9E,5
+625,1cXi8ALPQCBHZbf0EgP4Ey,Misfits,Hybrid Moments - C.I. Recording 1978,62,spotify:track:7ap5NaoYRB6TJdrhX5Fej8,1
+626,1cXi8ALPQCBHZbf0EgP4Ey,Misfits,Last Caress - C.I. Recording 1978,60,spotify:track:5ALCHMO9Fmvn1Ly18Q3apL,2
+627,1cXi8ALPQCBHZbf0EgP4Ey,Misfits,Dig Up Her Bones,56,spotify:track:16MPZDpM5JTtIBs3pOMSWx,3
+628,1cXi8ALPQCBHZbf0EgP4Ey,Misfits,Halloween - Mix-O-Lydian 1981,49,spotify:track:5QOvYYp7yRSY6LP7Vm48br,4
+629,1cXi8ALPQCBHZbf0EgP4Ey,Misfits,Saturday Night,30,spotify:track:04EqqBVDCU2LOtxOMZ223T,5
+630,5Mhs3Eu8lU6sRCtRYsmABV,Black Flag,Rise Above,51,spotify:track:4kFfFe38CRVnTsakUTL4E4,1
+631,5Mhs3Eu8lU6sRCtRYsmABV,Black Flag,Nervous Breakdown,49,spotify:track:3NoOwvxhI2yMYknxqnFUVx,2
+632,5Mhs3Eu8lU6sRCtRYsmABV,Black Flag,Six Pack,46,spotify:track:5Og9VyCOfxmZCuv1UhIyxE,3
+633,5Mhs3Eu8lU6sRCtRYsmABV,Black Flag,My War,46,spotify:track:4rrbptVnZifk4wC5mvNDPm,4
+634,5Mhs3Eu8lU6sRCtRYsmABV,Black Flag,TV Party,43,spotify:track:4DA95pyBe6QORPGvTEuMWQ,5
+635,1pBsvSnrhmgDZqisT13SFA,Agent Orange,Bloodstains - Original Version,53,spotify:track:5E47rKJbS74jyLZaSgb0kS,1
+636,1pBsvSnrhmgDZqisT13SFA,Agent Orange,Everything Turns Grey,46,spotify:track:10A07uxFCtZAu5An5RBiXB,2
+637,1pBsvSnrhmgDZqisT13SFA,Agent Orange,Bloodstains - Darkness Version,43,spotify:track:2Bi07aWU3Mhj47r6GmQQ7s,3
+638,1pBsvSnrhmgDZqisT13SFA,Agent Orange,Too Young to Die,41,spotify:track:6SDUhwv7kjWt4YVDSLsf8k,4
+639,1pBsvSnrhmgDZqisT13SFA,Agent Orange,Miserlou,41,spotify:track:1RhscZWFp75XvlJvbpbpYf,5
+640,30U8fYtiNpeA5KH6H87QUV,Dead Kennedys,Police Truck,51,spotify:track:2HLg4sSCWBfEFDJ1cW75Z2,1
+641,30U8fYtiNpeA5KH6H87QUV,Dead Kennedys,Holiday in Cambodia - Single Version,52,spotify:track:6ZR7gzHIvcj4qvo5q4kqXN,2
+642,30U8fYtiNpeA5KH6H87QUV,Dead Kennedys,California Über Alles,54,spotify:track:12yWLmPDd5CXA73vqo97PH,3
+643,30U8fYtiNpeA5KH6H87QUV,Dead Kennedys,Too Drunk to Fuck,47,spotify:track:5VTT6Qxr5938lOmStMJXhB,4
+644,30U8fYtiNpeA5KH6H87QUV,Dead Kennedys,Nazi Punks Fuck Off,51,spotify:track:35iszqjgLhqZZ6Rk9TjIdf,5
+645,2Ah9OuOj7B57gPD1cbwiaE,Municipal Waste,Wave of Death,57,spotify:track:6egRwYsMJ8DVJQAKOjHWou,1
+646,2Ah9OuOj7B57gPD1cbwiaE,Municipal Waste,Sadistic Magician,49,spotify:track:5szz2njh6khJU22vh4dAz0,2
+647,2Ah9OuOj7B57gPD1cbwiaE,Municipal Waste,The Art of Partying,46,spotify:track:1jMjbrmkSZAVvi7iffs06D,3
+648,2Ah9OuOj7B57gPD1cbwiaE,Municipal Waste,Grave Dive,45,spotify:track:0NAF4ywlrLdqUZMJRT23od,4
+649,2Ah9OuOj7B57gPD1cbwiaE,Municipal Waste,Slime and Punishment,44,spotify:track:3MaWDxMptFZ90WE5HJqClx,5
+650,0q32a3GRCjDxS4EIrC7YVY,The Sword,Freya,40,spotify:track:4FWC84DQU9Y07aPdiBwTy3,1
+651,0q32a3GRCjDxS4EIrC7YVY,The Sword,The Sundering,37,spotify:track:6bHwIsLpwvGH2xrX2DDgqM,2
+652,0q32a3GRCjDxS4EIrC7YVY,The Sword,Barael's Blade,29,spotify:track:6Z54DMU4XdbzQJl82cUYPh,3
+653,0q32a3GRCjDxS4EIrC7YVY,The Sword,Iron Swan,32,spotify:track:7JYL5SzkUUi4RNsU0qYlka,4
+654,0q32a3GRCjDxS4EIrC7YVY,The Sword,How Heavy This Axe,29,spotify:track:6bozEE6v2iUbHLDsExsSem,5
+655,161AC1AVRkIGIMxyj5djFQ,Clutch,Electric Worry,47,spotify:track:2Dgbz3WljYSb1w8Nig9Px3,1
+656,161AC1AVRkIGIMxyj5djFQ,Clutch,The Regulator,44,spotify:track:2NVMhCevaPTMb9Eqp92IeQ,2
+657,161AC1AVRkIGIMxyj5djFQ,Clutch,Spacegrass,44,spotify:track:2Mor7Tp1w61mPKozLewqey,3
+658,161AC1AVRkIGIMxyj5djFQ,Clutch,X-Ray Visions,38,spotify:track:2TjTDNwxAuy1OtxuOvIBk7,4
+659,161AC1AVRkIGIMxyj5djFQ,Clutch,A Quick Death in Texas,37,spotify:track:5vGvFs0BHIsFHcKzlb3qwf,5
+660,7eYmDBinb760MUIfoRdlGQ,Bloodbath,Eaten,43,spotify:track:54cBqIDAX3dH5Ys1DKgDWR,1
+661,7eYmDBinb760MUIfoRdlGQ,Bloodbath,So You Die,36,spotify:track:48JUQCIgAO8lI8nfEXIYbS,2
+662,7eYmDBinb760MUIfoRdlGQ,Bloodbath,Cancer of the Soul,34,spotify:track:67biuNJA03k1cU0XpciTNJ,3
+663,7eYmDBinb760MUIfoRdlGQ,Bloodbath,Brave New Hell,34,spotify:track:6SFvPiJZlqhPsNhkRqc2Lm,4
+664,7eYmDBinb760MUIfoRdlGQ,Bloodbath,Outnumbering the Day,33,spotify:track:5TISOiwexSROBtd0zf0tAp,5
+665,17MbhJOaaPHuWnRaWU9xkc,Decapitated,Earth Scar,43,spotify:track:6ELePWpAnvr6YueTV3JlIu,1
+666,17MbhJOaaPHuWnRaWU9xkc,Decapitated,Iconoclast,42,spotify:track:2I0caLwd3Rc84Hr147WH6S,2
+667,17MbhJOaaPHuWnRaWU9xkc,Decapitated,Kill the Cult,41,spotify:track:1NODkudB2DhHEe8H3X3iFG,3
+668,17MbhJOaaPHuWnRaWU9xkc,Decapitated,Spheres of Madness,39,spotify:track:4lNznSUjByH5zWpPZFFeff,4
+669,17MbhJOaaPHuWnRaWU9xkc,Decapitated,Hello Death,37,spotify:track:1q4Lf22OcjMq8XBd69YMtT,5
+670,6YXarbjg36ODFPez0PnOlD,At The Gates,Slaughter Of The Soul,50,spotify:track:2Vy4z1ZUN7RvN7syWI2yef,1
+671,6YXarbjg36ODFPez0PnOlD,At The Gates,Blinded By Fear,44,spotify:track:2pj2VXKSBRTmV8nuiaCKd2,2
+672,6YXarbjg36ODFPez0PnOlD,At The Gates,Into The Dead Sky,43,spotify:track:2mperrZFTlXtaLAngA3xZv,3
+673,6YXarbjg36ODFPez0PnOlD,At The Gates,Cold,42,spotify:track:3JRmeCjOaBqRCvzwCx9MNh,4
+674,6YXarbjg36ODFPez0PnOlD,At The Gates,Suicide Nation,42,spotify:track:3pvRJy3zkIivvLXh89aO3J,5
+675,7kozeGeawfP7IEEL6dddrM,Kataklysm,Narcissist,45,spotify:track:55oksqIJzQHW604TLqYoCI,1
+676,7kozeGeawfP7IEEL6dddrM,Kataklysm,Underneath the Scars,43,spotify:track:08YwIGFDmY2FjeY05kgUmX,2
+677,7kozeGeawfP7IEEL6dddrM,Kataklysm,Thy Serpent's Tongue,42,spotify:track:0dL4JAy0nsDNquenT0v7xQ,3
+678,7kozeGeawfP7IEEL6dddrM,Kataklysm,Guillotine,41,spotify:track:4kmBETppohETrSOl7iq5Gu,4
+679,7kozeGeawfP7IEEL6dddrM,Kataklysm,The Black Sheep,40,spotify:track:0kmUCvHfMHrEHncEWAJGwN,5
+680,2NPduAUeLVsfIauhRwuft1,Nightwish,Nemo,63,spotify:track:1RNwniZkJqdw9LMkkyynjx,1
+681,2NPduAUeLVsfIauhRwuft1,Nightwish,Wish I Had an Angel,61,spotify:track:6IKk2Z7LO59UDnVEw8JCBj,2
+682,2NPduAUeLVsfIauhRwuft1,Nightwish,Amaranth,59,spotify:track:0RsOUnm1wNpbXxZ8a4abOP,3
+683,2NPduAUeLVsfIauhRwuft1,Nightwish,The Phantom Of The Opera,57,spotify:track:6VOxRb9IAJQDDyHBlyEdPF,4
+684,2NPduAUeLVsfIauhRwuft1,Nightwish,Storytime,56,spotify:track:5IhtaTempjlVlPmSgI0FQS,5
+685,2KaW48xlLnXC2v8tvyhWsa,Amaranthe,Drop Dead Cynical,58,spotify:track:3X1usZ9bRwbyEjAnkLAJWO,1
+686,2KaW48xlLnXC2v8tvyhWsa,Amaranthe,Archangel,56,spotify:track:63aGgWIoGfl3wxykzje8eJ,2
+687,2KaW48xlLnXC2v8tvyhWsa,Amaranthe,Strong,53,spotify:track:4OYa2PXcdFhsg3SGkevSjl,3
+688,2KaW48xlLnXC2v8tvyhWsa,Amaranthe,Digital World,52,spotify:track:49LqVZtGnVkRNgT4ymmq9j,4
+689,2KaW48xlLnXC2v8tvyhWsa,Amaranthe,82nd All the Way,50,spotify:track:6bOqyWrlfam8oKITkqFrcP,5
+690,4Lm0pUvmisUHMdoky5ch2I,Apocalyptica,I Don't Care,62,spotify:track:1WxF4gMsFXnKCyh48CW2RI,1
+691,4Lm0pUvmisUHMdoky5ch2I,Apocalyptica,Not Strong Enough,59,spotify:track:6BD9XMxKnjL6dCJbxXAPUa,2
+692,4Lm0pUvmisUHMdoky5ch2I,Apocalyptica,I Don't Care - US Version,58,spotify:track:3bAoghFUTVwGYXYnzRqhCf,3
+693,4Lm0pUvmisUHMdoky5ch2I,Apocalyptica,I'm Not Jesus - International Version,56,spotify:track:7rCHmESfvRcjqaU7My7ge8,4
+694,4Lm0pUvmisUHMdoky5ch2I,Apocalyptica,Nothing Else Matters,56,spotify:track:3uErbNGaNIPJkRlMrLxR9Z,5
+695,6pIRdCtSE5hLFfIfcTAicI,Delain,We Are the Others,34,spotify:track:4F5DFVeAoQijmX30DVyZIy,1
+696,6pIRdCtSE5hLFfIfcTAicI,Delain,Moth to a Flame,44,spotify:track:4Oct1rxJ3hQtkgXxT3ktCA,2
+697,6pIRdCtSE5hLFfIfcTAicI,Delain,Dance with the Devil,29,spotify:track:5Bz1C2OyEIpseN3LLmtXmq,3
+698,6pIRdCtSE5hLFfIfcTAicI,Delain,The Reaping,30,spotify:track:5z0pAJXFdb6BVgwMbnhdLa,4
+699,6pIRdCtSE5hLFfIfcTAicI,Delain,Queen of Shadow (feat. Paolo Ribaldini),40,spotify:track:17QLatTqOCxkoIGxdPWdkn,5
+700,5yxZeKeX0FcaT6OlOnx52v,Elysion,Never Forever,51,spotify:track:1gtiboFlPYIuaJSeF3fZk6,1
+701,5yxZeKeX0FcaT6OlOnx52v,Elysion,Killing My Dreams,48,spotify:track:6NvjefGOBXHhY8iCv8NiEN,2
+702,5yxZeKeX0FcaT6OlOnx52v,Elysion,Made of Lies,47,spotify:track:1w8r3PAxPPLfcuyRsC4BeA,3
+703,5yxZeKeX0FcaT6OlOnx52v,Elysion,Fairytale,46,spotify:track:7MaQHhmO2EqcWmk1V430jz,4
+704,5yxZeKeX0FcaT6OlOnx52v,Elysion,Someplace Better,40,spotify:track:4JJ3Bu42tNicsqBnSLXoXC,5
+705,1MK0sGeyTNkbefYGj673e9,Behemoth,Ov Fire and the Void,44,spotify:track:3jmkqJcTvtyuAk0YHTMkc7,1
+706,1MK0sGeyTNkbefYGj673e9,Behemoth,Blow Your Trumpets Gabriel,44,spotify:track:07zQA8UkyxpmnRhPjHOVOB,2
+707,1MK0sGeyTNkbefYGj673e9,Behemoth,O Father O Satan O Sun!,44,spotify:track:2FsDybzWgntIa8M3Y7AenT,3
+708,1MK0sGeyTNkbefYGj673e9,Behemoth,Bartzabel,43,spotify:track:3wBHF6evf55iEzyMtReJSH,4
+709,1MK0sGeyTNkbefYGj673e9,Behemoth,Conquer All,45,spotify:track:5pKdvuth8EyC6pLxMu3aSr,5
+710,73UIalJYgktSi7qQFV53Qv,Hypocrisy,Eraser,41,spotify:track:3hnRbKie2CrjJmpAd30JlD,1
+711,73UIalJYgktSi7qQFV53Qv,Hypocrisy,Roswell 47,37,spotify:track:0gfgJmNF3X5W9Be0bABYVH,2
+712,73UIalJYgktSi7qQFV53Qv,Hypocrisy,Slippin' Away,38,spotify:track:4NcYRApZOUk4Y9vBSlFiZd,3
+713,73UIalJYgktSi7qQFV53Qv,Hypocrisy,Still Born,36,spotify:track:7kridKXTqZi9sCOVPIeMkb,4
+714,73UIalJYgktSi7qQFV53Qv,Hypocrisy,Chemical Whore,35,spotify:track:3gONzcsHm2F7TXkPeW43kV,5
+715,221Rd0FvVxMx7eCbWqjiKd,Satyricon,K.I.N.G,47,spotify:track:6IvxXL0dqXJlgIoIFfMqFA,1
+716,221Rd0FvVxMx7eCbWqjiKd,Satyricon,Black Crow on a Tombstone,41,spotify:track:56Bot8Y16EEseWiEYVpPtK,2
+717,221Rd0FvVxMx7eCbWqjiKd,Satyricon,Phoenix,37,spotify:track:6KpRZdS7bnWbR1zPNMBMfH,3
+718,221Rd0FvVxMx7eCbWqjiKd,Satyricon,The Pentagram Burns,39,spotify:track:3yAd0op89gxqcAN9y1HLqf,4
+719,221Rd0FvVxMx7eCbWqjiKd,Satyricon,Mother North,38,spotify:track:79iREiH6mrODItQGLaidt8,5
+720,5MlEt7qqXqNSReeX76xK6b,Septicflesh,Anubis,44,spotify:track:2RMG3QSgPaSaQPHRODEj2F,1
+721,5MlEt7qqXqNSReeX76xK6b,Septicflesh,A Desert Throne,40,spotify:track:3m3xlb2rdYGX5CZj0A8DBX,2
+722,5MlEt7qqXqNSReeX76xK6b,Septicflesh,Neuromancer,38,spotify:track:5qsc3cYKkUvOzNGtUbdpNk,3
+723,5MlEt7qqXqNSReeX76xK6b,Septicflesh,The Vampire from Nazareth,38,spotify:track:1CNgHpT1QSirrgWpMSl9SK,4
+724,5MlEt7qqXqNSReeX76xK6b,Septicflesh,Portrait of a Headless Man,34,spotify:track:1h8DpFbh3sHqq2iDZGKqh4,5
+725,457qPvtiBTIl6LR4dZiKZy,Strapping Young Lad,Love?,44,spotify:track:4MVJvkKhoeLPH3BcssmVpC,1
+726,457qPvtiBTIl6LR4dZiKZy,Strapping Young Lad,Detox - Remastered,34,spotify:track:5oANYeEgcIjuTLgdxVeuWb,2
+727,457qPvtiBTIl6LR4dZiKZy,Strapping Young Lad,Almost Again,33,spotify:track:3ra32HfA1ozXbScmBVc4jG,3
+728,457qPvtiBTIl6LR4dZiKZy,Strapping Young Lad,Oh My Fucking God,29,spotify:track:3ITXwYdwXg4MSdaLdgbNSw,4
+729,457qPvtiBTIl6LR4dZiKZy,Strapping Young Lad,AAA - Remastered,28,spotify:track:1GEw6vCxb5al781VSZEELB,5
+730,7FfAD7EYZbQ7aHPy9ujduD,My Life With The Thrill Kill Kult,After the Flesh,42,spotify:track:2GGFfHz2laYuGNDtqJRvAK,1
+731,7FfAD7EYZbQ7aHPy9ujduD,My Life With The Thrill Kill Kult,A Daisy Chain 4 Satan - Acid & Flowers Mix,38,spotify:track:5FwLDsdAgRVc3lZjam3euf,2
+732,7FfAD7EYZbQ7aHPy9ujduD,My Life With The Thrill Kill Kult,The Days of Swine & Roses,32,spotify:track:3XUHGVSsYXcs7RkT3M9yQM,3
+733,7FfAD7EYZbQ7aHPy9ujduD,My Life With The Thrill Kill Kult,The Devil Does Drugs,30,spotify:track:0Nc4TI9dwcUZ6Y2q8Z7jbA,4
+734,7FfAD7EYZbQ7aHPy9ujduD,My Life With The Thrill Kill Kult,Sex on Wheelz,25,spotify:track:38znPjUgvfHU2ekiYqWTxF,5
+735,0Zy4ncr8h1jd7Nzr9946fD,Killing Joke,Eighties - 2007 Digital Remaster,53,spotify:track:0BUCVTLKMipDJDRiv6118M,1
+736,0Zy4ncr8h1jd7Nzr9946fD,Killing Joke,Love Like Blood,49,spotify:track:6VzXOkU7pVXaVMR6e4hRAg,2
+737,0Zy4ncr8h1jd7Nzr9946fD,Killing Joke,The Death & Resurrection Show,39,spotify:track:2JUo8iX8FC05xd9GEpw9BI,3
+738,0Zy4ncr8h1jd7Nzr9946fD,Killing Joke,Love Like Blood,47,spotify:track:0SEfEDcVisRq8z4gU6r86b,4
+739,0Zy4ncr8h1jd7Nzr9946fD,Killing Joke,Requiem - 2005 Digital Remaster,36,spotify:track:0PZXhureTA1HfRkQWn2U1E,5
+740,7p8Z7MmqMYCa7ZKQKxRBKO,Machines Of Loving Grace,Golgotha Tenement Blues,45,spotify:track:20yvxFLMl0n4nvrDaqZ6ol,1
+741,7p8Z7MmqMYCa7ZKQKxRBKO,Machines Of Loving Grace,Butterfly Wings,33,spotify:track:7i4r4Va4nFf5sLfa2xcWoa,2
+742,7p8Z7MmqMYCa7ZKQKxRBKO,Machines Of Loving Grace,Lilith/Eve,29,spotify:track:2TFfT8V6paTbSx3sjoEWgM,3
+743,7p8Z7MmqMYCa7ZKQKxRBKO,Machines Of Loving Grace,Perfect Tan (Bikini Atoll),28,spotify:track:1etegTasEsjmiZcKT0qMfQ,4
+744,7p8Z7MmqMYCa7ZKQKxRBKO,Machines Of Loving Grace,Acceleration,24,spotify:track:2FRvVabTEdHc87u5lGaZBh,5
+745,62G7ybeJSN91TgfsWsdDOb,1000 Homo DJs,Supernaut,32,spotify:track:1LkYAkYzqq7TbJTGfx3ixY,1
+746,62G7ybeJSN91TgfsWsdDOb,1000 Homo DJs,Supernaut (Trent Vocals),23,spotify:track:7ylD2IT1JdSfx6JS8OZ4Uj,2
+747,62G7ybeJSN91TgfsWsdDOb,1000 Homo DJs,Apathy,17,spotify:track:73r9TTM2qqFJ7SCRnUJFy2,3
+748,62G7ybeJSN91TgfsWsdDOb,1000 Homo DJs,Hey Asshole!,13,spotify:track:79wD8zUlTsjaJkWqVy6Hex,4
+749,62G7ybeJSN91TgfsWsdDOb,1000 Homo DJs,Better Ways,11,spotify:track:0UkgK6DWSXwnPdKEGN7OMp,5
+750,0ImEDe9tW5n4pxHOK39zIc,Kittie,Brackish,59,spotify:track:5znZ4aN1j49w2Oel8tdmgG,1
+751,0ImEDe9tW5n4pxHOK39zIc,Kittie,Get Off (You Can Eat a Dick),54,spotify:track:7bkstl3jHuqyLThQoja3Ek,2
+752,0ImEDe9tW5n4pxHOK39zIc,Kittie,Spit,52,spotify:track:6zd772F94reUnGHulNeEFm,3
+753,0ImEDe9tW5n4pxHOK39zIc,Kittie,Charlotte,49,spotify:track:6KNhbezV7aXC06dCpNFFVo,4
+754,0ImEDe9tW5n4pxHOK39zIc,Kittie,One Foot In The Grave,38,spotify:track:6fkre9qGyleKmufw9ONQPI,5
+755,6Ghvu1VvMGScGpOUJBAHNH,Deftones,Change (In the House of Flies),77,spotify:track:51c94ac31swyDQj9B3Lzs3,1
+756,6Ghvu1VvMGScGpOUJBAHNH,Deftones,My Own Summer (Shove It),77,spotify:track:1158ckiB5S4cpsdYHDB9IF,2
+757,6Ghvu1VvMGScGpOUJBAHNH,Deftones,Be Quiet and Drive (Far Away),75,spotify:track:4Uiw0Sl9yskBaC6P4DcdVD,3
+758,6Ghvu1VvMGScGpOUJBAHNH,Deftones,Sextape,75,spotify:track:1EryAkZ0VHstC6haIxVBiE,4
+759,6Ghvu1VvMGScGpOUJBAHNH,Deftones,Cherry Waves,73,spotify:track:70L6nHORQsblY813yNqUR3,5
+760,6159IBm5gLPwG4BcJXseXc,Soulfly,Jumpdafuckup,55,spotify:track:1UwwbPgKGOoSbqqHm9Xxzn,1
+761,6159IBm5gLPwG4BcJXseXc,Soulfly,Bleed,46,spotify:track:5dOA0yswTUbMiiPCTQfnsx,2
+762,6159IBm5gLPwG4BcJXseXc,Soulfly,Back to the Primitive,45,spotify:track:3t3cv2Vb8XzjipocvYP22U,3
+763,6159IBm5gLPwG4BcJXseXc,Soulfly,Pain,41,spotify:track:1KVQejl7oVR6HHenlQ9iwC,4
+764,6159IBm5gLPwG4BcJXseXc,Soulfly,Prophecy,42,spotify:track:0PVqmGnFNOQmHD1prOk2UI,5
+765,69k6uTSZMPLpSnhmLCiKxQ,Coal Chamber,Loco,55,spotify:track:1aiHmIlCiiHUTqS1CYzuTM,1
+766,69k6uTSZMPLpSnhmLCiKxQ,Coal Chamber,Sway,49,spotify:track:19bAcl8m0DEUzteLSBDnzH,2
+767,69k6uTSZMPLpSnhmLCiKxQ,Coal Chamber,Fiend,44,spotify:track:5YCEVdLLSFPnhfma05qx7o,3
+768,69k6uTSZMPLpSnhmLCiKxQ,Coal Chamber,Big Truck,43,spotify:track:2E0hbCAAemTXn8TUArR76o,4
+769,69k6uTSZMPLpSnhmLCiKxQ,Coal Chamber,Shock the Monkey,42,spotify:track:5NXTDuDe0BQ8trPWGaE5ih,5
+770,3N1B1g6JtIgd6ClRkzD4yT,Savatage,Hall of the Mountain King,41,spotify:track:0rv2jIngnCbHoGEaFOIcwW,1
+771,3N1B1g6JtIgd6ClRkzD4yT,Savatage,Edge of Thorns,41,spotify:track:2JjRySKmXZGHRyCHOyhDr9,2
+772,3N1B1g6JtIgd6ClRkzD4yT,Savatage,When the Crowds Are Gone,39,spotify:track:6uQ15UwuRKIgUJQakgkYtZ,3
+773,3N1B1g6JtIgd6ClRkzD4yT,Savatage,Summer's Rain,40,spotify:track:57CwfFdWIzid69KOR1c2p2,4
+774,3N1B1g6JtIgd6ClRkzD4yT,Savatage,Strange Wings,39,spotify:track:4M8ZX4ciIVnmzeThvqxjdT,5
+775,5SwHKKNKYToC1YzWVNWAIN,Tiamat,Brighter Than the Sun,36,spotify:track:4Cr7rlPC7orOCPIO8z4fh1,1
+776,5SwHKKNKYToC1YzWVNWAIN,Tiamat,Cain,36,spotify:track:5WBtuD4aTN4pxONsXIOD2q,2
+777,5SwHKKNKYToC1YzWVNWAIN,Tiamat,Whatever That Hurts - live in Stockholm 1994,27,spotify:track:3hjeIzjSe2ZJB9yu9Xoc5F,3
+778,5SwHKKNKYToC1YzWVNWAIN,Tiamat,Do You Dream of Me?,31,spotify:track:2cZab4n0VD6kELrhJWVNR1,4
+779,5SwHKKNKYToC1YzWVNWAIN,Tiamat,Carry Your Cross and I'll Carry Mine,32,spotify:track:1k4PHer51WDPU5IzDTry8U,5
+780,0gIo6kGl4KsCeIbqtZVHYp,Paradise Lost,Small Town Boy,48,spotify:track:0jfNgP8sP2tnOloYDw0HoM,1
+781,0gIo6kGl4KsCeIbqtZVHYp,Paradise Lost,Say Just Words,43,spotify:track:1yrquRdZk965GKv2kDHGpL,2
+782,0gIo6kGl4KsCeIbqtZVHYp,Paradise Lost,No Hope in Sight,40,spotify:track:6LSDAtJAhkoNriP0HVKYJh,3
+783,0gIo6kGl4KsCeIbqtZVHYp,Paradise Lost,Erased,40,spotify:track:7unanB9ZWhUkUAzWbnz21R,4
+784,0gIo6kGl4KsCeIbqtZVHYp,Paradise Lost,Ghosts,39,spotify:track:6D7F8c5VbzE9cRhiRUTq7G,5
+785,2EOmvmVtYMTgn45w9mWUTV,Tristania,My Lost Lenore,35,spotify:track:5FiVetk82VI8dclrchJauL,1
+786,2EOmvmVtYMTgn45w9mWUTV,Tristania,Year of the Rat,33,spotify:track:3tSPzD7A31dohGDH2DAAhZ,2
+787,2EOmvmVtYMTgn45w9mWUTV,Tristania,Beyond the Veil,31,spotify:track:104eWa0vt83hRfQyIla9Bo,3
+788,2EOmvmVtYMTgn45w9mWUTV,Tristania,Deadlocked,30,spotify:track:3u9ocy7ijI090f9XjgdFbD,4
+789,2EOmvmVtYMTgn45w9mWUTV,Tristania,Evenfall,29,spotify:track:6N3Fd2U0E7VSFdTqAWRcz8,5
+790,31eXqCx5cAlItdGdoHMEOu,Theatre Of Tragedy,Venus,45,spotify:track:2qURNRJHKUjc9aT398g0pf,1
+791,31eXqCx5cAlItdGdoHMEOu,Theatre Of Tragedy,Cassandra,39,spotify:track:4vkoYIgUmOrhiXbT8DMDEV,2
+792,31eXqCx5cAlItdGdoHMEOu,Theatre Of Tragedy,Storm,38,spotify:track:0yS0PRN1jUnSjojoZ78jmT,3
+793,31eXqCx5cAlItdGdoHMEOu,Theatre Of Tragedy,And When He Falleth,37,spotify:track:10a8GFqhp6uiNogYRBS0YH,4
+794,31eXqCx5cAlItdGdoHMEOu,Theatre Of Tragedy,Siren,36,spotify:track:5XnHRKpIuL902a4n0JqoZ0,5
+795,7iMWWdRNiCJwGOGEIYr02z,My Dying Bride,Your Broken Shore,37,spotify:track:55qmxCQFReKqCDuxIY75qI,1
+796,7iMWWdRNiCJwGOGEIYr02z,My Dying Bride,The Cry of Mankind,28,spotify:track:6VyghI3tdKh51Na4AmCMX3,2
+797,7iMWWdRNiCJwGOGEIYr02z,My Dying Bride,My Wine In Silence,33,spotify:track:6ZAuCrqQWJUgSh4Ttdwlob,3
+798,7iMWWdRNiCJwGOGEIYr02z,My Dying Bride,Thornwyck Hymn,29,spotify:track:5E6SCynkGH3Qaok7FKTVva,4
+799,7iMWWdRNiCJwGOGEIYr02z,My Dying Bride,The 2nd of Three Bells,28,spotify:track:3wJlfYHbaQ0RJz4HpR0i53,5
+800,6SBgDfIRb6IE9TrA6w8Zg6,Downset,Empower,35,spotify:track:6Qq5ajhyDxzrI1dOnfxqWl,1
+801,6SBgDfIRb6IE9TrA6w8Zg6,Downset,Pure Trauma,35,spotify:track:7FpFV1oQhhZm6Vyj7K5FcS,2
+802,6SBgDfIRb6IE9TrA6w8Zg6,Downset,Anger,33,spotify:track:3Biz0iz1YTAyDXed2hrgm1,3
+803,6SBgDfIRb6IE9TrA6w8Zg6,Downset,Eyes Shut Tight,26,spotify:track:7GIeqemEcxFWq5fewBjFLO,4
+804,6SBgDfIRb6IE9TrA6w8Zg6,Downset,Take 'Em Out,23,spotify:track:5RvvNfKsKe5LP2fiNuTOri,5
+805,56F64pmwSSCcmS1CxAnPk8,Pro-Pain,Voice of Rebellion,35,spotify:track:2BNshqUpO2WSXRpp3lP37y,1
+806,56F64pmwSSCcmS1CxAnPk8,Pro-Pain,Foul Taste of Freedom,29,spotify:track:6FzpS89LfPocXySAhjKUOS,2
+807,56F64pmwSSCcmS1CxAnPk8,Pro-Pain,Deathwish,28,spotify:track:3e4VaLnVgH3FXtlTQPpfCC,3
+808,56F64pmwSSCcmS1CxAnPk8,Pro-Pain,Make War (Not Love),26,spotify:track:6UZjVPpk5YCNKhl2XVZ3np,4
+809,56F64pmwSSCcmS1CxAnPk8,Pro-Pain,Fuck This Life,25,spotify:track:5o0xFlYDN5VnqdpXGpcvtK,5
+810,2K5ouPQEC1lbHfUTbbjh0a,Superjoint,Waiting for the Turning Point,36,spotify:track:1tGEtxhmxU9V5aQPVPdM0x,1
+811,2K5ouPQEC1lbHfUTbbjh0a,Superjoint,Fuck Your Enemy,33,spotify:track:5SVdEiyqTKMHmfRi5r2GKj,2
+812,2K5ouPQEC1lbHfUTbbjh0a,Superjoint,The Alcoholik,30,spotify:track:3qfGG5SqWBrNsQztewvmtV,3
+813,2K5ouPQEC1lbHfUTbbjh0a,Superjoint,Dress Like a Target,29,spotify:track:1G97lgHYwpLjujqIc0n8EW,4
+814,2K5ouPQEC1lbHfUTbbjh0a,Superjoint,It Takes No Guts,27,spotify:track:7KB19E1iir7HPRBP8eBrVH,5
+815,4gyzQpfG5YQZJt2jj0IkEl,Life Of Agony,River Runs Red,35,spotify:track:5WmSYclkYNnon45HYYgdqH,1
+816,4gyzQpfG5YQZJt2jj0IkEl,Life Of Agony,Let's Pretend,32,spotify:track:3eDR95KUpZLX5scBFXkFEV,2
+817,4gyzQpfG5YQZJt2jj0IkEl,Life Of Agony,Weeds,33,spotify:track:7mH8nac0FCdP0FYGwo3OIx,3
+818,4gyzQpfG5YQZJt2jj0IkEl,Life Of Agony,This Time,29,spotify:track:7vACTtAxVo5C06YPl189v1,4
+819,4gyzQpfG5YQZJt2jj0IkEl,Life Of Agony,Through and Through,30,spotify:track:75n1d9jgh7jwr57Uikmp5M,5
+820,1Px6nQCyIRM4Gj0tyvZ1TU,Sick Of It All,Step Down,39,spotify:track:0S3YlKnOR7F6T8t20gLhf0,1
+821,1Px6nQCyIRM4Gj0tyvZ1TU,Sick Of It All,Scratch the Surface,37,spotify:track:6yzoLxsBLiEqyB7zpAcJnX,2
+822,1Px6nQCyIRM4Gj0tyvZ1TU,Sick Of It All,Injustice System!,31,spotify:track:5AUlwP1gZFUcfMfkyVDKPW,3
+823,1Px6nQCyIRM4Gj0tyvZ1TU,Sick Of It All,Built to Last,30,spotify:track:14fFu1g5hewTTpXcVfCnrg,4
+824,1Px6nQCyIRM4Gj0tyvZ1TU,Sick Of It All,Take The Night Off,29,spotify:track:4ALA7Nd0JcRHSvcffGjnym,5
+825,6SYbLA9utoNsllunR1TnkM,Sodom,Agent Orange,47,spotify:track:3Ks3K2RmCxSUcXS6cOvd43,1
+826,6SYbLA9utoNsllunR1TnkM,Sodom,Napalm in the Morning (2021 - Remaster),43,spotify:track:7xWgCUckC7bAQfrXGZ8l5e,2
+827,6SYbLA9utoNsllunR1TnkM,Sodom,M-16,42,spotify:track:5IuHS16yRB8RKtuR4gAGYG,3
+828,6SYbLA9utoNsllunR1TnkM,Sodom,Tombstone,41,spotify:track:0WwnTVMbXBwXvhrsVm0GHO,4
+829,6SYbLA9utoNsllunR1TnkM,Sodom,Ausgebombt,41,spotify:track:2URuChhPo6T4Z2DTNrdegI,5
+830,0NmYchKQ8JIR9QHYJA0FRe,Overkill,Elimination,45,spotify:track:6lWFQo5NuR3y8Q6CHIRatA,1
+831,0NmYchKQ8JIR9QHYJA0FRe,Overkill,"Mean, Green, Killing Machine",41,spotify:track:0mIUS9GApGWW8wGxNI0CPE,2
+832,0NmYchKQ8JIR9QHYJA0FRe,Overkill,Last Man Standing,36,spotify:track:01zm9AlUjboMitrlL3oVAz,3
+833,0NmYchKQ8JIR9QHYJA0FRe,Overkill,I Hate,35,spotify:track:2RWVhDyyfKhJuDv87G55uw,4
+834,0NmYchKQ8JIR9QHYJA0FRe,Overkill,Scorched,34,spotify:track:5BB1QLvVv2E8EtlQcI68Ms,5
+835,0L8QRAAuWjqvTM8FpQ1gYO,Annihilator,King of the Kill - 2013 Version,48,spotify:track:1gEV4KEZ7QNo7hO8ClhIGl,1
+836,0L8QRAAuWjqvTM8FpQ1gYO,Annihilator,Crystal Ann,46,spotify:track:6HdieikOXlB5C75iebDKqp,2
+837,0L8QRAAuWjqvTM8FpQ1gYO,Annihilator,Alison Hell,46,spotify:track:153SwL1d9SfCLWhqIs08we,3
+838,0L8QRAAuWjqvTM8FpQ1gYO,Annihilator,Phoenix Rising,40,spotify:track:6vSY2O8TWgHP0oLPn5WhbH,4
+839,0L8QRAAuWjqvTM8FpQ1gYO,Annihilator,W.T.Y.D.,36,spotify:track:4puBhL71XaixTPxpK02yog,5
+840,6KVc8Llznru8n9LVCYe9dz,Death Angel,The Moth,43,spotify:track:1VAr5YFV3UF3eWmbhYQMqF,1
+841,6KVc8Llznru8n9LVCYe9dz,Death Angel,Volcanic,40,spotify:track:5nrA9SFOvJSmQzvxhZNY4K,2
+842,6KVc8Llznru8n9LVCYe9dz,Death Angel,The Ultra-Violence,35,spotify:track:20bJTQOaoHqeCHBhqIgcTl,3
+843,6KVc8Llznru8n9LVCYe9dz,Death Angel,Humanicide,35,spotify:track:7KmMhTk07elK9dxu49Owi2,4
+844,6KVc8Llznru8n9LVCYe9dz,Death Angel,I Came for Blood,33,spotify:track:7nc6Z5g292ezd2NEYAUO9u,5
+845,6qpmcQfxhmNxNMCJUrpHwe,Dissection,Nexion 218,45,spotify:track:4UXM6z4I5PbnJMEP9RRAay,1
+846,6qpmcQfxhmNxNMCJUrpHwe,Dissection,Where Dead Angels Lie,42,spotify:track:1wdK548KKmN40wxH051bSy,2
+847,6qpmcQfxhmNxNMCJUrpHwe,Dissection,Black Dragon,41,spotify:track:5ZJwjTma5MQDjPIxP5HiTn,3
+848,6qpmcQfxhmNxNMCJUrpHwe,Dissection,God of Forbidden Light,41,spotify:track:3gltjLpFGs2OEYPMwelCSS,4
+849,6qpmcQfxhmNxNMCJUrpHwe,Dissection,Maha-Kali,40,spotify:track:2xM5sYHiXYo2baYbC3tiC2,5
+850,2mVTkiwfm4ic6DnHpmFq8K,Immortal,Tyrants,42,spotify:track:7IikbYJuxnILUaytiJ6KXY,1
+851,2mVTkiwfm4ic6DnHpmFq8K,Immortal,Unsilent Storms In The North Abyss,40,spotify:track:2JzcrgG7EroPtXVTfSNo8G,2
+852,2mVTkiwfm4ic6DnHpmFq8K,Immortal,One by One,39,spotify:track:65sql5o05skwJ6frSq4exl,3
+853,2mVTkiwfm4ic6DnHpmFq8K,Immortal,Sons of Northern Darkness,39,spotify:track:2rnU6zTXn7l4rmAqpbKOVz,4
+854,2mVTkiwfm4ic6DnHpmFq8K,Immortal,Return To Cold,38,spotify:track:2ScZtDGnzFkBgu4fhRzmsS,5
+855,4OpHsZuhfJMU9PZ3zkyUQX,Watain,They Rode On,38,spotify:track:4vK7YxgpYLEU97fA3M3EeI,1
+856,4OpHsZuhfJMU9PZ3zkyUQX,Watain,The howling,37,spotify:track:0trob3attda0PSrXT5Lfhg,2
+857,4OpHsZuhfJMU9PZ3zkyUQX,Watain,Ecstasies in night infinite,36,spotify:track:57LQHgaWbaB02gDFth9in4,3
+858,4OpHsZuhfJMU9PZ3zkyUQX,Watain,Malfeitor,34,spotify:track:79qyNyF12jmPSLGCvPyInr,4
+859,4OpHsZuhfJMU9PZ3zkyUQX,Watain,Serimosa,31,spotify:track:3RDmBA4vloYiyTCiF2gspt,5
+860,7F9ZL4TJNr8AoU0UUQX8ih,Archspire,Drone Corpse Aviator,46,spotify:track:74p4l00JKebWPlAfpqi9Xq,1
+861,7F9ZL4TJNr8AoU0UUQX8ih,Archspire,Bleed the Future,43,spotify:track:3Lu9mCAVdjK6lhVUxsBiGy,2
+862,7F9ZL4TJNr8AoU0UUQX8ih,Archspire,Golden Mouth of Ruin,43,spotify:track:248ihasILhESFtf6S06Chc,3
+863,7F9ZL4TJNr8AoU0UUQX8ih,Archspire,Involuntary Doppelgänger,43,spotify:track:4K1yqd68vWmDXFwXAqW35d,4
+864,7F9ZL4TJNr8AoU0UUQX8ih,Archspire,Remote Tumour Seeker,39,spotify:track:2sC87TgUDPTes7bBF3JAS7,5
+865,5FXMcILCOMjljRTV6cLoiE,Sirenia,The Other Side,44,spotify:track:1Ja927Jy7zgsDjTiCzmFJN,1
+866,5FXMcILCOMjljRTV6cLoiE,Sirenia,The Path To Decay,43,spotify:track:4uaQ7adjRXgBWuSzlAH9vS,2
+867,5FXMcILCOMjljRTV6cLoiE,Sirenia,My Mind' s Eye,43,spotify:track:6w2vXBqo0gMvB4rBDqkBWd,3
+868,5FXMcILCOMjljRTV6cLoiE,Sirenia,What Else Is There?,42,spotify:track:0zbeLVcM8iUBiKq6GxoJU3,4
+869,5FXMcILCOMjljRTV6cLoiE,Sirenia,Lost In Life,39,spotify:track:6WMpdVIM1zNOPPWHwDKHHI,5
+870,2WLmgv66Uq4vt2i36vwkAq,The Haunted,99,42,spotify:track:5otXJIeiF43SPz7R7ov8GX,1
+871,2WLmgv66Uq4vt2i36vwkAq,The Haunted,Dark Intentions,35,spotify:track:79mKrjTQilOnRetizKZSWH,2
+872,2WLmgv66Uq4vt2i36vwkAq,The Haunted,Preachers of Death,33,spotify:track:2WQXTG8wjeMf9lkSJTmG0L,3
+873,2WLmgv66Uq4vt2i36vwkAq,The Haunted,All Against All,30,spotify:track:6o7XcdOQlg7yIGB9MB9c4Q,4
+874,2WLmgv66Uq4vt2i36vwkAq,The Haunted,Bury Your Dead,28,spotify:track:6HenM3ZO1yypAj0JtymnXq,5
+875,4JNF6YOUi69O4zAdwQVGLY,Killer Be Killed,Wings of Feather and Wax,44,spotify:track:2mQTLrJjZnXrOMnvKyNfrf,1
+876,4JNF6YOUi69O4zAdwQVGLY,Killer Be Killed,Curb Crusher,41,spotify:track:3wNSg0FoZsKOhoI5IJEmne,2
+877,4JNF6YOUi69O4zAdwQVGLY,Killer Be Killed,Snakes of Jehovah,38,spotify:track:3yucHt9X2mbEeu470yig8e,3
+878,4JNF6YOUi69O4zAdwQVGLY,Killer Be Killed,Dream Gone Bad,37,spotify:track:2fHMWs7qvxzqlpy1PPNkb6,4
+879,4JNF6YOUi69O4zAdwQVGLY,Killer Be Killed,Melting of My Marrow,36,spotify:track:0XzgMvvqsr3FSGZgtIypGG,5
+880,2CWWgbxApjbyByxBBCvGTm,Katatonia,My Twin,47,spotify:track:0ZEigpVOtVunIcimL7dJuh,1
+881,2CWWgbxApjbyByxBBCvGTm,Katatonia,Old Heart Falls,43,spotify:track:4AHe46XPJyR6wt4jngb75M,2
+882,2CWWgbxApjbyByxBBCvGTm,Katatonia,Deliberation,42,spotify:track:3z7jm3G3rdp05oTzYWkHNi,3
+883,2CWWgbxApjbyByxBBCvGTm,Katatonia,Decima,42,spotify:track:6OCQnfXr2G4KaRREAeqayz,4
+884,2CWWgbxApjbyByxBBCvGTm,Katatonia,Leaders,41,spotify:track:6sXBhPRjlce2PK9f1Womum,5
+885,2aaLAng2L2aWD2FClzwiep,Dream Theater,Pull Me Under,59,spotify:track:5CPXR6lDTvngxtmMZxnWmC,1
+886,2aaLAng2L2aWD2FClzwiep,Dream Theater,Night Terror,57,spotify:track:0bFg4i9Izzpc4p9bTj4Pug,2
+887,2aaLAng2L2aWD2FClzwiep,Dream Theater,Panic Attack - 2009 Remaster,49,spotify:track:1Wjv9DU0smGPmUXrzDEezL,3
+888,2aaLAng2L2aWD2FClzwiep,Dream Theater,Another Day,54,spotify:track:69kZsoRrSf7GBTSdJ4BjqA,4
+889,2aaLAng2L2aWD2FClzwiep,Dream Theater,As I Am,54,spotify:track:6hz6lrQtLcxOOjflnYjF9o,5
+890,38uWD5h115pdz278q4rwZW,Soen,Lotus,46,spotify:track:6lThiyFluc0jY2O8SYg3II,1
+891,38uWD5h115pdz278q4rwZW,Soen,Savia,44,spotify:track:5HiQhJeGOgp1OoNKLfKzix,2
+892,38uWD5h115pdz278q4rwZW,Soen,Fraccions,43,spotify:track:1pTFVTv0MJRQSMzop2T1jf,3
+893,38uWD5h115pdz278q4rwZW,Soen,Lascivious,42,spotify:track:4gt5FZwbAzEKSwBhPEDz4B,4
+894,38uWD5h115pdz278q4rwZW,Soen,Illusion,42,spotify:track:2WHiTbvlqwM1zTCS7qRpPE,5
+895,1uRpg2s2jNaxbmoNiJDGfd,Pain of Salvation,Undertow,39,spotify:track:3ihYW3baWXEULD5ecp5ggn,1
+896,1uRpg2s2jNaxbmoNiJDGfd,Pain of Salvation,Sisters,35,spotify:track:0kddNyu476mmgO7onYjC3J,2
+897,1uRpg2s2jNaxbmoNiJDGfd,Pain of Salvation,Meaningless,34,spotify:track:5fNlRqDLjM7OlKt4qVClcY,3
+898,1uRpg2s2jNaxbmoNiJDGfd,Pain of Salvation,Silent Gold,31,spotify:track:3rnnYsV5nF9o4d6ZdVfndK,4
+899,1uRpg2s2jNaxbmoNiJDGfd,Pain of Salvation,Second Love,30,spotify:track:2SUFKaVs0YJkxUqlMZws1h,5
+900,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,The Sound of Silence - CYRIL Remix,83,spotify:track:1LY3GhF0zxIVgbYEQjCbUO,1
+901,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,Down with the Sickness,74,spotify:track:40rvBMQizxkIqnjPdEWY1v,2
+902,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,The Sound of Silence,64,spotify:track:0eZBeB2xFIS65jQHerispi,3
+903,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,Stricken,71,spotify:track:6RJdYpFQwLyNfDc5FbjkgV,4
+904,3TOqt5oJwL9BE2NG9MEwDa,Disturbed,Indestructible,66,spotify:track:42ZVk59gT4tMlrZmd8Ijxf,5
+905,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,Hail to the King,75,spotify:track:5anCkDvJ17aznvK5TED5uo,1
+906,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,A Little Piece of Heaven,72,spotify:track:1BLfQ6dPXmuDrFmbdfW7Jl,2
+907,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,Nightmare,70,spotify:track:4UEo1b0wWrtHMC8bVqPiH8,3
+908,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,Afterlife,70,spotify:track:7zAt4tdL44D3VuzsvM0N8n,4
+909,0nmQIMXWTXfhgOBdNzhGOs,Avenged Sevenfold,Dear God,70,spotify:track:2FML7gk7ac6quGFIjvkDb3,5
+910,568ZhdwyaiCyOGJRtNYhWf,Deep Purple,Smoke On The Water - Remastered 2012,70,spotify:track:5MMnwYs0hIxkENRsbkWJ2G,1
+911,568ZhdwyaiCyOGJRtNYhWf,Deep Purple,Highway Star - Remastered 2012,61,spotify:track:3uMmllZo1AfoEnVT4ENCD3,2
+912,568ZhdwyaiCyOGJRtNYhWf,Deep Purple,Perfect Strangers,61,spotify:track:2JhJOPGvtqMpj5RQC8cIYf,3
+913,568ZhdwyaiCyOGJRtNYhWf,Deep Purple,Child in Time - 1995 Remaster,56,spotify:track:573Z2Dty5epeNgKsgoDOlr,4
+914,568ZhdwyaiCyOGJRtNYhWf,Deep Purple,When A Blind Man Cries - Remastered,58,spotify:track:0JtcFIgrkSagrM5JdFakeO,5
+915,2yEwvVSSSUkcLeSTNyHKh8,TOOL,Schism,68,spotify:track:55mJleti2WfWEFNFcBduhc,1
+916,2yEwvVSSSUkcLeSTNyHKh8,TOOL,The Pot,67,spotify:track:1lATXTBJDHwawvT1UfxWu3,2
+917,2yEwvVSSSUkcLeSTNyHKh8,TOOL,Sober,66,spotify:track:6DyywdbmTzlmXBzG9ym7Rt,3
+918,2yEwvVSSSUkcLeSTNyHKh8,TOOL,Forty Six & 2,66,spotify:track:6AioOohg4bQZFA4jIYQQ2r,4
+919,2yEwvVSSSUkcLeSTNyHKh8,TOOL,Stinkfist,65,spotify:track:0pwObEOHolQZSldJ2q1wpy,5
+920,1Qp56T7n950O3EGMsSl81D,Ghost,Mary On A Cross,77,spotify:track:2wBnZdVWa5jVpvYRfGU7rP,1
+921,1Qp56T7n950O3EGMsSl81D,Ghost,Square Hammer,64,spotify:track:5TNhjanmvwvmjCz2WYwSAv,2
+922,1Qp56T7n950O3EGMsSl81D,Ghost,Dance Macabre,62,spotify:track:4pIKFpwflOdhYNIRmPTj3E,3
+923,1Qp56T7n950O3EGMsSl81D,Ghost,Call Me Little Sunshine,63,spotify:track:4xAmbn7xiy6wGOs4oaxv70,4
+924,1Qp56T7n950O3EGMsSl81D,Ghost,Spillways,63,spotify:track:0WHtcCpZnoyFlQg3Mf2cdN,5
+925,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,The Last Stand,67,spotify:track:0bUgTRe5st6TMbRCEjKezX,1
+926,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,To Hell and Back,66,spotify:track:1BrgjqSg9du0lj3TUMLluL,2
+927,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,Night Witches,63,spotify:track:1xBRGN41DWx2vwNFY5CvGe,3
+928,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,Primo Victoria,62,spotify:track:5DbAOJ5dYW5A9xBhkeb33t,4
+929,3o2dn2O0FCVsWDFSh8qxgG,Sabaton,Stormtroopers,62,spotify:track:7cUHFTxJhxtZ5tpY34SMRw,5
+930,3WPKDlucMsXH6FC1XaclZC,Suicidal Tendencies,Cyco Vision,58,spotify:track:3I9K8tSZRsAw7bRYfbhJEA,1
+931,3WPKDlucMsXH6FC1XaclZC,Suicidal Tendencies,Institutionalized,56,spotify:track:7G83ZwD2msTtFaBQExc8QB,2
+932,3WPKDlucMsXH6FC1XaclZC,Suicidal Tendencies,Subliminal,52,spotify:track:2zeAo1ddhjm1TioD77dDSV,3
+933,3WPKDlucMsXH6FC1XaclZC,Suicidal Tendencies,You Can't Bring Me Down,51,spotify:track:203xxdlledLFnkqrUleD72,4
+934,3WPKDlucMsXH6FC1XaclZC,Suicidal Tendencies,War Inside My Head,46,spotify:track:03HL3jTzizrDNtPcmdPELp,5
+935,1DXylZlWbVvlckNqwvjTEt,Ministry,Jesus Built My Hotrod,50,spotify:track:0BX3ysoHJvxmLEhPMAfb2z,1
+936,1DXylZlWbVvlckNqwvjTEt,Ministry,N.W.O.,49,spotify:track:2D9LxUcR9zWxQtxiHsMA0n,2
+937,1DXylZlWbVvlckNqwvjTEt,Ministry,Everyday Is Like Halloween,42,spotify:track:6qmY21MWIcAEPf9G80wKfb,3
+938,1DXylZlWbVvlckNqwvjTEt,Ministry,Just One Fix,47,spotify:track:0Vcpo9El50PNNbZXfKbNti,4
+939,1DXylZlWbVvlckNqwvjTEt,Ministry,Goddamn White Trash,46,spotify:track:5Pw0WYcFMkMnnQsII5nMOe,5
+940,0blJzvevdXrp21YeI2vbco,Type O Negative,I Don't Wanna Be Me,70,spotify:track:4eGHEHqoDMMejzPhRFTc7p,1
+941,0blJzvevdXrp21YeI2vbco,Type O Negative,Black No. 1 (Little Miss Scare -All),61,spotify:track:710B9xFjNOisQtKtppZE9p,2
+942,0blJzvevdXrp21YeI2vbco,Type O Negative,Love You to Death,61,spotify:track:58RDwkonFMOkoytBtIQetc,3
+943,0blJzvevdXrp21YeI2vbco,Type O Negative,Christian Woman,58,spotify:track:3634aKisKlGdUfD9V3MOY5,4
+944,0blJzvevdXrp21YeI2vbco,Type O Negative,My Girlfriend's Girlfriend,56,spotify:track:3yubyWatnRRLHkIsN1ZI2Q,5
+945,2OgUPVlWYgGBGMefZgGvCO,Queensrÿche,Silent Lucidity - Remastered 2003,57,spotify:track:6OSyCAmXT4Gkd3OQ2aPOaF,1
+946,2OgUPVlWYgGBGMefZgGvCO,Queensrÿche,Jet City Woman - Remastered 2003,53,spotify:track:4sOlbksuGHyUkSafNnho2f,2
+947,2OgUPVlWYgGBGMefZgGvCO,Queensrÿche,I Don't Believe In Love - Remastered 2003,50,spotify:track:0U2TocFjqul3sis3sE5jZl,3
+948,2OgUPVlWYgGBGMefZgGvCO,Queensrÿche,Walk In The Shadows,48,spotify:track:27Wxcom55Yau5sRB0Ed9kw,4
+949,2OgUPVlWYgGBGMefZgGvCO,Queensrÿche,Another Rainy Night (Without You) - Remastered 2003,46,spotify:track:4tUma2etb9HVEHTeIdJjl3,5
+950,17bYSQ9ZRnreVnJjE5X2x6,Moonspell,Alma Mater,41,spotify:track:6aY8pSRwrJ9IjPAzr0dd0S,1
+951,17bYSQ9ZRnreVnJjE5X2x6,Moonspell,Opium,40,spotify:track:08uVRkAnmSjUY2FUh6Iu0K,2
+952,17bYSQ9ZRnreVnJjE5X2x6,Moonspell,Scorpion Flower,39,spotify:track:3F30JrQHQywPEOHow06yRV,3
+953,17bYSQ9ZRnreVnJjE5X2x6,Moonspell,Vampiria,38,spotify:track:3WvEldmFjjLhd1ITIl0FMk,4
+954,17bYSQ9ZRnreVnJjE5X2x6,Moonspell,Luna,36,spotify:track:78Ck7yqfI6ilgbeiM3P8Ls,5
+955,3nhxXtHwC2TookQyqQlFK1,Biohazard,Punishment,45,spotify:track:3eI2C0gohXlg4AsavdYSiz,1
+956,3nhxXtHwC2TookQyqQlFK1,Biohazard,Judgment Night,39,spotify:track:3eDh9NUf9uQzDH9eUoKoCV,2
+957,3nhxXtHwC2TookQyqQlFK1,Biohazard,Shades of Grey - Remastered,36,spotify:track:7usgJJP3CuXJBbGcXxvZbd,3
+958,3nhxXtHwC2TookQyqQlFK1,Biohazard,Down for Life,34,spotify:track:5PbC9tBONAbLTDTfMvzndz,4
+959,3nhxXtHwC2TookQyqQlFK1,Biohazard,Tales from the Hard Side,34,spotify:track:3ZIwetgnl1HSF5jopm7e69,5
+960,3BM0EaYmkKWuPmmHFUTQHv,Kreator,State Of Unrest,53,spotify:track:3u4djE2yAEkKMWJEUOOJyT,1
+961,3BM0EaYmkKWuPmmHFUTQHv,Kreator,Satan Is Real,49,spotify:track:14M68PdZSSMRzTBuJNuxO6,2
+962,3BM0EaYmkKWuPmmHFUTQHv,Kreator,Violent Revolution,47,spotify:track:712ukvLX20rwHuTWg7Gcjb,3
+963,3BM0EaYmkKWuPmmHFUTQHv,Kreator,Hail to the Hordes,45,spotify:track:3UDEQapo4aNTwmodEamAo2,4
+964,3BM0EaYmkKWuPmmHFUTQHv,Kreator,Suicide Terrorist,45,spotify:track:1kTgT1Mh7hV9L0ZgxNN2kz,5
+965,4OAddazJM576euUnFSvXSL,Lacuna Coil,Enjoy the Silence - cover version,52,spotify:track:71KtwiEpzcn9WxwlaS7ZJY,1
+966,4OAddazJM576euUnFSvXSL,Lacuna Coil,Hosting the Shadow (feat. Randy Blythe),50,spotify:track:5kGYXoTex44RouWpcc6MD0,2
+967,4OAddazJM576euUnFSvXSL,Lacuna Coil,Our Truth,49,spotify:track:6vS5siwSidItcWFXskcpAA,3
+968,4OAddazJM576euUnFSvXSL,Lacuna Coil,Heaven's a Lie,49,spotify:track:0I7y3aEavUHgkt4aCreBDa,4
+969,4OAddazJM576euUnFSvXSL,Lacuna Coil,Oxygen,48,spotify:track:0ncGg1FsXkT3VDEjC229IU,5
