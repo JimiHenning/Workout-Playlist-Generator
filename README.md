@@ -30,24 +30,23 @@ This project leverages Spotify's API to extract detailed audio features for a gi
 1. Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/YourRepo.git
-Navigate to the project directory:
+   
+3. Navigate to the project directory:
+   ```bash
+   cd YourRepo
+   
+3.Install dependencies:
+   ```bash
+   pip install -r requirements.txt
 
-bash
-Code kopieren
-cd YourRepo
-Install dependencies:
+4.Set up Spotify API credentials:
 
-bash
-Code kopieren
-pip install -r requirements.txt
-Set up Spotify API credentials:
+  - **Sign up for a Spotify Developer account and create an app.
+  - **Save your client_id and client_secret in a .env file:
+  ```makefile
+   SPOTIPY_CLIENT_ID=your_client_id
+   SPOTIPY_CLIENT_SECRET=your_client_secret
 
-Sign up for a Spotify Developer account and create an app.
-Save your client_id and client_secret in a .env file:
-makefile
-Code kopieren
-SPOTIPY_CLIENT_ID=your_client_id
-SPOTIPY_CLIENT_SECRET=your_client_secret
 Usage
 Running the Jupyter Notebook
 Open the Jupyter notebook:
