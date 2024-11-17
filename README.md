@@ -1,5 +1,9 @@
 # Workout-Playlist-Generator
 
+## Presentation:
+  
+- [Presentation](https://docs.google.com/presentation/d/1OkRJH0dont5JVyk-nXmrKqXrp3zGPdOYf6rag1CqDfo/edit?usp=sharing)
+
 # Spotify Audio Feature Extractor and Playlist Generator
 
 This project leverages Spotify's API to extract detailed audio features for a given list of tracks and generates personalized playlists. It is designed to process large datasets of songs and provide insights or playlist recommendations based on audio characteristics such as tempo, energy, and danceability.
@@ -56,7 +60,7 @@ This project leverages Spotify's API to extract detailed audio features for a gi
    jupyter notebook gnod_final.ipynb
 
 2. Follow the steps in the notebook to:  
-   - Process a dataset of track Spotify tracks.  
+   - Process a dataset of Spotify tracks.  
    - Analyze audio features.  
    - Generate playlists.
 
